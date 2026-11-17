@@ -1,8 +1,8 @@
 #!/bin/bash
 
-cd "$(dirname "$0")"
+RES="$(cd "$(dirname "$0")" && pwd)"
 
-./gs -dBATCH -dNOPAUSE -sDEVICE=txtwrite -sOutputFile=pstemp.txt "$1" 
+"$RES/gs" -dBATCH -dNOPAUSE -sDEVICE=txtwrite -sOutputFile=pstemp.txt "$1" 
 
 LOC=$( defaults read "Apple Global Domain" AppleLocale )
 export LANG="$LOC.UTF-8"

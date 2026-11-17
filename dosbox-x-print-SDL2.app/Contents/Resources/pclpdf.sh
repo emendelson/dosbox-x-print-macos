@@ -1,6 +1,6 @@
 #!/bin/bash
 
-cd "$(dirname "$0")"
+RES="$(cd "$(dirname "$0")" && pwd)"
 
 ## TODO: add this to PJL string
 LOC=$( defaults read "Apple Global Domain" AppleLocale )
@@ -13,7 +13,7 @@ PJLPAPER="@PJL SET PAPER=$PAPER"
 NOW=$(date '+%F_%H:%M:%S')
 FULLPATH="$HOME/Desktop/$NOW.pdf"
 
-./gpcl6 -dNOPAUSE -sDEVICE=pdfwrite -sOutputFile=temppdf.pdf "$1"
+"$RES/gpcl6" -dNOPAUSE -sDEVICE=pdfwrite -sOutputFile=temppdf.pdf "$1"
 
 mv temppdf.pdf "$FULLPATH"
 rm "$1"

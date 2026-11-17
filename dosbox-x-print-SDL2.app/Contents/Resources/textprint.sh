@@ -1,6 +1,6 @@
 #!/bin/bash
 
-cd "$(dirname "$0")"
+RES="$(cd "$(dirname "$0")" && pwd)"
 
 # Get the default printer's name
 default_printer=$(lpstat -d 2>&1)
@@ -18,16 +18,16 @@ if [ "$LOC" = "en_US" ] || [ "$LOC" = "en_CA" ] ; then
    PAPER="us"
 fi
 
-./nenscript -p temp.ps -fCourier9 -B -T $PAPER "$1"
-./gs -sBATCH -dNOPAUSE -sDEVICE=pdfwrite -sOutputFile=temp.pdf temp.ps
+"$RES/nenscript" -p temp.ps -fCourier9 -B -T $PAPER "$1"
+"$RES/gs" -sBATCH -dNOPAUSE -sDEVICE=pdfwrite -sOutputFile=temp.pdf temp.ps
 
 rm temp.ps
 rm "$1"
 
-DIR=$(CDPATH= cd -- "$(dirname -- "$0")" && pwd)
+DIR="$PWD"
 PDF=("$DIR/temp.pdf")
 
-source ./defaultprint.sh "$PDF"
+source "$RES/defaultprint.sh" "$PDF"
 exit
 
 

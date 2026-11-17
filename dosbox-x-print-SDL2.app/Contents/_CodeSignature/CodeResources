@@ -4,6 +4,14 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>Resources/AppIcon.icns</key>
+		<data>
+		Grjch+NV2k4SVAdkhp5rfJ/Fdjg=
+		</data>
+		<key>Resources/Assets.car</key>
+		<data>
+		lxtHGnyZKDZm6ozHFFTikVRWwhE=
+		</data>
 		<key>Resources/BonjourEvents.app/Contents/CodeResources</key>
 		<data>
 		uOzt0VFgWvPsclqgP6jSexIIRAQ=
@@ -14,7 +22,7 @@
 		</data>
 		<key>Resources/BonjourEvents.app/Contents/MacOS/BonjourEvents</key>
 		<data>
-		OEvF8j8gr5R5RkkzOaeb50Ysw4Y=
+		3a0lx8T8hbOwggi9Wi5l7pclyqM=
 		</data>
 		<key>Resources/BonjourEvents.app/Contents/PkgInfo</key>
 		<data>
@@ -39,7 +47,7 @@
 		</data>
 		<key>Resources/BonjourEvents.app/Contents/_CodeSignature/CodeResources</key>
 		<data>
-		h7GLC3LhV+lLtE1iIh8a3MIpbpk=
+		QmR/npc/3sx2j3C7P61CVm5MY4E=
 		</data>
 		<key>Resources/Credits.rtf</key>
 		<data>
@@ -55,31 +63,27 @@
 		</data>
 		<key>Resources/clippcl.sh</key>
 		<data>
-		3qKxJpDeKjWW5Ngtx4mZ9Unjj+0=
+		Br28ylLOh+vU12Y19zgxrAH8TBU=
 		</data>
 		<key>Resources/clipps.sh</key>
 		<data>
-		Wc7rIt+1uz8d2a/4LwIonPmZ6XQ=
+		36A3Yyr3BS3ALqj381QIu0Ckgqw=
 		</data>
 		<key>Resources/cliptext.sh</key>
 		<data>
-		c19QL/BWpnsLg+4+Z7yomR8qAlI=
+		69pu8/hC4W7aLgQNmWCC0tKbSfY=
 		</data>
 		<key>Resources/confbak.bat</key>
 		<data>
-		9NEltAHKcaoNj5DOvzNDnFN1bQI=
+		0D+I792ZPtk19HjlxOsZO2fgfT0=
 		</data>
 		<key>Resources/defaultprint.sh</key>
 		<data>
-		eU5bD0PXO3qCIxNOx90EUVwgWE4=
+		MifS5EzvNRwJxX6A4dJKpA0KrGs=
 		</data>
 		<key>Resources/dosbox-x.conf</key>
 		<data>
-		ZrXxjjbA1V4EOWrj59AB8W9zRHY=
-		</data>
-		<key>Resources/dosbox-x.icns</key>
-		<data>
-		EFe4HCokaJ7VNXzScsXHW6HKimk=
+		/sXw2EYGQklEoOCq+IM7TUWYXfc=
 		</data>
 		<key>Resources/dosbox-x.reference.conf</key>
 		<data>
@@ -91,7 +95,7 @@
 		</data>
 		<key>Resources/drivez/readme.txt</key>
 		<data>
-		Su2qGkbo9LK15pAUGGPAuw+aC0E=
+		x7tsRx9jlh7BpAjmnIXRFsXI7Xo=
 		</data>
 		<key>Resources/freecg98.bmp</key>
 		<data>
@@ -99,7 +103,7 @@
 		</data>
 		<key>Resources/glshaders/ScanLine.glsl</key>
 		<data>
-		d7RwLzTV/+WCSLC9k7+eflbvyrs=
+		E0JqRdhmfJlMriGrwR/0L4OgV28=
 		</data>
 		<key>Resources/glshaders/advinterp2x.glsl</key>
 		<data>
@@ -159,7 +163,7 @@
 		</data>
 		<key>Resources/glshaders/crt-lottes.tweaked.glsl</key>
 		<data>
-		lKTccXA1ny8x2HkgW0fHWz0DIYA=
+		kI1xMX/Dkh+MtiNNWm4i2QaOyO4=
 		</data>
 		<key>Resources/glshaders/crt-nes-mini.glsl</key>
 		<data>
@@ -183,7 +187,7 @@
 		</data>
 		<key>Resources/glshaders/glshaders.txt</key>
 		<data>
-		oY8ji3CuagTjALDzfNotAsL/n3k=
+		DYpnteeoGizZIckmWxja7xul2qU=
 		</data>
 		<key>Resources/glshaders/none.glsl</key>
 		<data>
@@ -255,15 +259,15 @@
 		</data>
 		<key>Resources/glshaders/zfast_crt.glsl</key>
 		<data>
-		oQc6C+LU4cZk1n7A3OSUULbX0vI=
+		P/YeLEAQ8xQZ9a5V1W3kKCDhiHU=
 		</data>
 		<key>Resources/gpcl6</key>
 		<data>
-		56ByoBfToSh2tqE9R/ZBX0jLJTg=
+		Jnrzj9WFo5QZ48JaKW+B73h6qFU=
 		</data>
 		<key>Resources/gs</key>
 		<data>
-		YYDpG5VErpAgJMiQa9i2kdsG6Sc=
+		14FkXZFYLWcHMRXhp3RdYxM8sC0=
 		</data>
 		<key>Resources/languages/de_DE.lng</key>
 		<data>
@@ -275,11 +279,11 @@
 		</data>
 		<key>Resources/languages/en_US.lng</key>
 		<data>
-		nXZRUl69FWfKbmcKltdgPGujBN8=
+		QCx7QKaZryLCPJmgFb8bmDZ9PHA=
 		</data>
 		<key>Resources/languages/es_ES.lng</key>
 		<data>
-		RQYQz95HxNSurevOTVtVmDjHKfE=
+		Lj33llwgifwEycyW9YdjU47Afs0=
 		</data>
 		<key>Resources/languages/fr_FR.lng</key>
 		<data>
@@ -299,11 +303,11 @@
 		</data>
 		<key>Resources/languages/ko_KR.lng</key>
 		<data>
-		QJvWSqLkmUuVqIySTCcS+sEn93w=
+		BriXJNdzeeFcjNFxtYJC0TE+u4s=
 		</data>
 		<key>Resources/languages/nl_NL.lng</key>
 		<data>
-		5MLY1tVBr6BIO9PVXvRTNPJCczU=
+		XRpiOevkb/dZXV6P2OTkj/p0HAY=
 		</data>
 		<key>Resources/languages/pt_BR.lng</key>
 		<data>
@@ -315,83 +319,83 @@
 		</data>
 		<key>Resources/languages/tr_TR.lng</key>
 		<data>
-		KKTHT0dN9XbWMv66xfXCQDJOQ6k=
+		XE+AsLaZDquhJKfJBkv/1lN7OKU=
 		</data>
 		<key>Resources/languages/zh_CN.lng</key>
 		<data>
-		0NBOuhGaBckLgH+IR5Sp8lmk1fU=
+		VzBv7XjC4j0A16bVM3x9uElnjTE=
 		</data>
 		<key>Resources/languages/zh_TW.lng</key>
 		<data>
-		b7rtU27bGtzyhBHnB4Dy4Fy+WSI=
+		5ZtyjkOQs6lnU6z3B4bCUN1WZoE=
 		</data>
 		<key>Resources/makebak.bat</key>
 		<data>
-		pZpw7iYAhqYg/xdy8unVrVVaNTI=
+		UvljeakigRCnpqsXSEVMMksl5ks=
 		</data>
 		<key>Resources/nenscript</key>
 		<data>
-		EA8s+iOh4uXNLOVrIPr+m7Jjc9k=
+		OqxhUuaPIrFall1r3jfNA4eTUEk=
 		</data>
 		<key>Resources/pclpdf.sh</key>
 		<data>
-		zbtMQ8l73nF9pWnrHwc7b8/+N4o=
+		0K9kV6sI/Kou4+Z6tt/nXUGwLEc=
 		</data>
 		<key>Resources/pclprint.sh</key>
 		<data>
-		LEuEOONK1K0BL2vOV2G714J9k5E=
+		YwF3SOL6dmkfeux435RqW97nxgo=
 		</data>
 		<key>Resources/pclselect.sh</key>
 		<data>
-		cm/4kmuaOV/xmkadEP17Cmg/32M=
+		nXPuMy7ZKpV7hn/rEU+1Ssk4Ygg=
 		</data>
 		<key>Resources/pclview.sh</key>
 		<data>
-		19ejjEtZSEZur7nUIoAuFxZfZgM=
+		MB2s4EYk7G4MmNWaI2jA8sh7Lgc=
 		</data>
 		<key>Resources/pspdf.sh</key>
 		<data>
-		qeJLj6gTxZs4m2y2++EcenTvyac=
+		wDFfLrkYK6a4rAJ6BKy6kNHmFgw=
 		</data>
 		<key>Resources/psprint.sh</key>
 		<data>
-		4p8jc4dGFGFFxchMLkRilhJI+JA=
+		xxjYFY7qrYI2tSCGbHBPKCBPr0s=
 		</data>
 		<key>Resources/psselect.sh</key>
 		<data>
-		t2htF4jUYN5EFhTxOTD0HcGre1Q=
+		kkZ5/iECaqPK5Jm3Z6DPpLXuukw=
 		</data>
 		<key>Resources/psview.sh</key>
 		<data>
-		/o8FB5WcheM/+gt6qL1DRwyapsw=
+		EDL10xcwq6B/13orKT7+gLrCd/k=
 		</data>
 		<key>Resources/selectprint.sh</key>
 		<data>
-		uTK6k7I0WAedQTXlC6qwcRenH8U=
+		lg8Z6sF3N+OvmdnwmOCYk/Sd/xw=
 		</data>
 		<key>Resources/selectrawprint.sh</key>
 		<data>
-		8WQm7R4bCjozsRW2eL/LFinvBA0=
+		zWy1iFGn8miO8uTW++EhznnYJl8=
 		</data>
 		<key>Resources/selraw.sh</key>
 		<data>
-		GWtSQ3vR/B9gxX2bDyyUIQrQbkw=
+		cYq5JZxPc17pcitWS1/lKBWnhnU=
 		</data>
 		<key>Resources/textpdf.sh</key>
 		<data>
-		/Q0ugQfwSfddVdHhf1eSyhFp3oo=
+		9hQ+7aPy+kRvyhiMDHYcHqa6HCs=
 		</data>
 		<key>Resources/textprint.sh</key>
 		<data>
-		EKVwHsk3AWsx9/ijeFmRhjlnyZg=
+		MJvacMygUUkc61Ej2bupeYH4ZZI=
 		</data>
 		<key>Resources/textselect.sh</key>
 		<data>
-		RjJysjjRKJFz24Uui44HLlDaAws=
+		CnygER54rkQIWsoFTHqxc3FTfvA=
 		</data>
 		<key>Resources/textview.sh</key>
 		<data>
-		8HmnPkMpaY650QhqNjTu0cUhRvs=
+		D0gruvDx/HlkVBPp/8wPCJz322E=
 		</data>
 		<key>Resources/wqy_11pt.bdf</key>
 		<data>
@@ -404,300 +408,175 @@
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>MacOS/arm64/libFLAC.12.dylib</key>
+		<key>Frameworks/libFLAC.12.dylib</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			+EPMToKNRG3aLiY0dUhxPOlUECo=
+			Y6jmP/oA4x08eMPSO2a4LNdfsMc=
 			</data>
 			<key>requirement</key>
-			<string>identifier "libFLAC.12" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "533UMV53L8"</string>
+			<string>cdhash H"63a8e63ffa00e31d3c78c3d23b66b82cd75fb0c7" or cdhash H"03e23b9fd5d6320fe8a98385b59cc5a2888a395d"</string>
 		</dict>
-		<key>MacOS/arm64/libfluidsynth.3.dylib</key>
+		<key>Frameworks/libfluidsynth.3.dylib</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			NzCN6K9PPcHTCgU28HEk82OkC7U=
+			4ufA2qRATjccTvY6seCWtpG+BbM=
 			</data>
 			<key>requirement</key>
-			<string>identifier "libfluidsynth.3" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "533UMV53L8"</string>
+			<string>cdhash H"e2e7c0daa4404e371c4ef63ab1e096b691be05b3" or cdhash H"2ac1e21696032df9bfc05155f9a28e7431f28f49"</string>
 		</dict>
-		<key>MacOS/arm64/libglib-2.0.0.dylib</key>
+		<key>Frameworks/libglib-2.0.0.dylib</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			PRJhA7u1NIZ5qflsKGsx6Dn917A=
+			hvDo1dl/YBzv3EgNVbIyyukiBxw=
 			</data>
 			<key>requirement</key>
-			<string>identifier "libglib-2" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "533UMV53L8"</string>
+			<string>cdhash H"86f0e8d5d97f601cefdc480d55b232cae922071c" or cdhash H"721649f6fa833dbec61aef61dd7e134975b6e747"</string>
 		</dict>
-		<key>MacOS/arm64/libgthread-2.0.0.dylib</key>
+		<key>Frameworks/libgthread-2.0.0.dylib</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			TlC16yijxs/SnMPsQnErZytkzBU=
+			vPLVG18rdk7MKpKSo7FeZOLsfn0=
 			</data>
 			<key>requirement</key>
-			<string>identifier "libgthread-2" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "533UMV53L8"</string>
+			<string>cdhash H"bcf2d51b5f2b764ecc2a9292a3b15e64e2ec7e7d" or cdhash H"47bbed5c631ee4587ca07c73598e32c00563f39d"</string>
 		</dict>
-		<key>MacOS/arm64/libintl.8.dylib</key>
+		<key>Frameworks/libintl.8.dylib</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			0bxayhVAXjMB7JZg04TgMzhp+TE=
+			lmFfo2OW9mf7+xGVMPwaZrzq8+I=
 			</data>
 			<key>requirement</key>
-			<string>identifier "libintl.8" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "533UMV53L8"</string>
+			<string>cdhash H"96615fa36396f667fbfb119530fc1a66bceaf3e2" or cdhash H"d7c7263c023c942af56df3d49cc592fa7ab32a24"</string>
 		</dict>
-		<key>MacOS/arm64/libmp3lame.0.dylib</key>
+		<key>Frameworks/libmp3lame.0.dylib</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			luKgE9GvT63mRRhpjk+Sef2ipQE=
+			E/vOdDdzgi06xsnkWTlXVP51l0E=
 			</data>
 			<key>requirement</key>
-			<string>identifier "libmp3lame.0" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "533UMV53L8"</string>
+			<string>cdhash H"13fbce743773822d3ac6c9e459395754fe759741" or cdhash H"0185f9af144a8bb283b2ebfdaff12176dde86e71"</string>
 		</dict>
-		<key>MacOS/arm64/libmpg123.0.dylib</key>
+		<key>Frameworks/libmpg123.0.dylib</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			LjPzNn0O2VYI9U+KQWTtWYDH9DY=
+			OcCdW+m7z0aLnQGb0tBbW/vdaTA=
 			</data>
 			<key>requirement</key>
-			<string>identifier libmpg123 and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "533UMV53L8"</string>
+			<string>cdhash H"39c09d5be9bbcf468b9d019bd2d05b5bfbdd6930" or cdhash H"b564fadd0259380587d12241a70701982e4b20a7"</string>
 		</dict>
-		<key>MacOS/arm64/libogg.0.dylib</key>
+		<key>Frameworks/libogg.0.dylib</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			N9Vym7/C4k7E7kYqkz6Co/VbtO8=
+			F4S1Hrs8QchUTI66jyPiYLkNvbk=
 			</data>
 			<key>requirement</key>
-			<string>identifier "libogg.0" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "533UMV53L8"</string>
+			<string>cdhash H"1784b51ebb3c41c8544c8eba8f23e260b90dbdb9" or cdhash H"b70420397986e9204eaadc0db8a3e2457945d3c2"</string>
 		</dict>
-		<key>MacOS/arm64/libopus.0.dylib</key>
+		<key>Frameworks/libopus.0.dylib</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			9xAndZ6am+nxv11D5gOlfMDoILA=
+			9trbrMVvql9y+LUZxu/6a/bBNm4=
 			</data>
 			<key>requirement</key>
-			<string>identifier "libopus.0" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "533UMV53L8"</string>
+			<string>cdhash H"f6dadbacc56faa5f72f8b519c6effa6bf6c1366e" or cdhash H"6551552a963892418a999ac81dab2c763b2e3c8c"</string>
 		</dict>
-		<key>MacOS/arm64/libpcre2-8.0.dylib</key>
+		<key>Frameworks/libpcre2-8.0.dylib</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			gxZAKRxeNG6xW617P27TlWgNf0A=
+			S+Drzg2gpCoIATDusnfPRQBN+qg=
 			</data>
 			<key>requirement</key>
-			<string>identifier "libpcre2-8" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "533UMV53L8"</string>
+			<string>cdhash H"4be0ebce0da0a42a080130eeb277cf45004dfaa8" or cdhash H"db1753920efb7e717b356da707744f8a619abd41"</string>
 		</dict>
-		<key>MacOS/arm64/libportaudio.2.dylib</key>
+		<key>Frameworks/libportaudio.2.dylib</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			heeTTMLo4KLrIEOcPFV7gmFfoLc=
+			M3hXMfqrNwLnX2vkeLZew3on9yU=
 			</data>
 			<key>requirement</key>
-			<string>identifier "libportaudio.2" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "533UMV53L8"</string>
+			<string>cdhash H"33785731faab3702e75f6be478b65ec37a27f725" or cdhash H"386f4b9d3a908206a3fca46a5594421a7bfa0e8e"</string>
 		</dict>
-		<key>MacOS/arm64/libreadline.8.dylib</key>
+		<key>Frameworks/libreadline.8.dylib</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			I7ZDn/RYrJMiZJodYIJwC7mjZB4=
+			y7uXCS1L02A6UsiNF8+RC/8m+ss=
 			</data>
 			<key>requirement</key>
-			<string>identifier "libreadline.8" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "533UMV53L8"</string>
+			<string>cdhash H"cbbb97092d4bd3603a52c88d17cf910bff26facb" or cdhash H"f0e8a9071c76fce8d6032e6a4fa01912c1bc4225"</string>
 		</dict>
-		<key>MacOS/arm64/libslirp.0.dylib</key>
+		<key>Frameworks/libslirp.0.dylib</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			tHTMoPh18hWO7zv70wGhTKFHLzw=
+			ReAjkkhZw8DWDp1vskRdq/lMePA=
 			</data>
 			<key>requirement</key>
-			<string>identifier "libslirp.0" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "533UMV53L8"</string>
+			<string>cdhash H"45e023924859c3c0d60e9d6fb2445dabf94c78f0" or cdhash H"c662f3e18c3c47869ac789c6ce5036a8054f0713"</string>
 		</dict>
-		<key>MacOS/arm64/libsndfile.1.dylib</key>
+		<key>Frameworks/libsndfile.1.dylib</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			jv/tLd7yM6fYZoeaNd61hKWSYV4=
+			mYcXpTasgrbF993r1V9N17/TpjA=
 			</data>
 			<key>requirement</key>
-			<string>identifier "libsndfile.1" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "533UMV53L8"</string>
+			<string>cdhash H"998717a536ac82b6c5f7ddebd55f4dd7bfd3a630" or cdhash H"edf5fcf0cbbc97b3baea002c0e6fefbedfb572b4"</string>
 		</dict>
-		<key>MacOS/arm64/libvorbis.0.dylib</key>
+		<key>Frameworks/libvorbis.0.dylib</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			JBzyx7ANwJgeNLALP29vD+sZ0rQ=
+			EocEa6OXQMg1vsxAcDDovy0FjKc=
 			</data>
 			<key>requirement</key>
-			<string>identifier "libvorbis.0" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "533UMV53L8"</string>
+			<string>cdhash H"1287046ba39740c835becc407030e8bf2d058ca7" or cdhash H"b929c45f2034395f0472971830ec22343aa67e76"</string>
 		</dict>
-		<key>MacOS/arm64/libvorbisenc.2.dylib</key>
+		<key>Frameworks/libvorbisenc.2.dylib</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			l40zQ7P232WKyyA0T0HWOTr8kpQ=
+			Ax15BUUFOR23bicqi/Owc37Anuo=
 			</data>
 			<key>requirement</key>
-			<string>identifier "libvorbisenc.2" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "533UMV53L8"</string>
+			<string>cdhash H"031d79054505391db76e272a8bf3b0737ec09eea" or cdhash H"c0ab4d0e888b3c747ec3b1973c75a69e6ea3c9a5"</string>
 		</dict>
-		<key>MacOS/x86_64/libFLAC.12.dylib</key>
+		<key>MacOS/dosbox-x-bin</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			Cvby6SUCOTR/VjPsBqWCH4Y3IBI=
+			Dmn8oBNITf07Ptf8zdRaGt14PMQ=
 			</data>
 			<key>requirement</key>
-			<string>identifier "libFLAC.12" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "533UMV53L8"</string>
+			<string>cdhash H"0e69fca013484dfd3b3ed7fccdd45a1add783cc4" or cdhash H"7788b39091727024441b5515e209d1fc07969a7f"</string>
 		</dict>
-		<key>MacOS/x86_64/libfluidsynth.3.dylib</key>
+		<key>Resources/AppIcon.icns</key>
 		<dict>
-			<key>cdhash</key>
+			<key>hash2</key>
 			<data>
-			Ho2EEobo7HM20Ozm3Znyh+ZituQ=
+			k0whIayLTWNRf4bx92ZJVi2JQuclz6bl1h754pJHFwE=
 			</data>
-			<key>requirement</key>
-			<string>identifier "libfluidsynth.3" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "533UMV53L8"</string>
 		</dict>
-		<key>MacOS/x86_64/libglib-2.0.0.dylib</key>
+		<key>Resources/Assets.car</key>
 		<dict>
-			<key>cdhash</key>
+			<key>hash2</key>
 			<data>
-			oHqV0gBi8zHNAhZJtGmDz5CcvVs=
+			1wrAg8Hwcxw+AOqtiFC6LwWhFkMdHNQViHgTDmGitDM=
 			</data>
-			<key>requirement</key>
-			<string>identifier "libglib-2" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "533UMV53L8"</string>
-		</dict>
-		<key>MacOS/x86_64/libgthread-2.0.0.dylib</key>
-		<dict>
-			<key>cdhash</key>
-			<data>
-			KXyZ6ar2RQDupC/qTJhE1GKWGUc=
-			</data>
-			<key>requirement</key>
-			<string>identifier "libgthread-2" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "533UMV53L8"</string>
-		</dict>
-		<key>MacOS/x86_64/libintl.8.dylib</key>
-		<dict>
-			<key>cdhash</key>
-			<data>
-			4B+3+CyYS6BdZdYywwlDktZt4qo=
-			</data>
-			<key>requirement</key>
-			<string>identifier "libintl.8" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "533UMV53L8"</string>
-		</dict>
-		<key>MacOS/x86_64/libmp3lame.0.dylib</key>
-		<dict>
-			<key>cdhash</key>
-			<data>
-			pcYquVU3Jz6tuMXZE+so3mjQDQQ=
-			</data>
-			<key>requirement</key>
-			<string>identifier "libmp3lame.0" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "533UMV53L8"</string>
-		</dict>
-		<key>MacOS/x86_64/libmpg123.0.dylib</key>
-		<dict>
-			<key>cdhash</key>
-			<data>
-			K+UFWSd+MVUPbFG2bVum7fnnneE=
-			</data>
-			<key>requirement</key>
-			<string>identifier libmpg123 and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "533UMV53L8"</string>
-		</dict>
-		<key>MacOS/x86_64/libogg.0.dylib</key>
-		<dict>
-			<key>cdhash</key>
-			<data>
-			YJEmEKditBMBiBczowqREmEyRPA=
-			</data>
-			<key>requirement</key>
-			<string>identifier "libogg.0" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "533UMV53L8"</string>
-		</dict>
-		<key>MacOS/x86_64/libopus.0.dylib</key>
-		<dict>
-			<key>cdhash</key>
-			<data>
-			/kx/nmVWOprATXoSiIRz2amJNMA=
-			</data>
-			<key>requirement</key>
-			<string>identifier "libopus.0" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "533UMV53L8"</string>
-		</dict>
-		<key>MacOS/x86_64/libpcre2-8.0.dylib</key>
-		<dict>
-			<key>cdhash</key>
-			<data>
-			gusTboFIQ5i8Jf4B7eAqf65accY=
-			</data>
-			<key>requirement</key>
-			<string>identifier "libpcre2-8" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "533UMV53L8"</string>
-		</dict>
-		<key>MacOS/x86_64/libportaudio.2.dylib</key>
-		<dict>
-			<key>cdhash</key>
-			<data>
-			M21out9wPleTHELdKltWN1lBm2E=
-			</data>
-			<key>requirement</key>
-			<string>identifier "libportaudio.2" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "533UMV53L8"</string>
-		</dict>
-		<key>MacOS/x86_64/libreadline.8.dylib</key>
-		<dict>
-			<key>cdhash</key>
-			<data>
-			TQVbs/Yb376UJgBraz3iN84YdNE=
-			</data>
-			<key>requirement</key>
-			<string>identifier "libreadline.8" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "533UMV53L8"</string>
-		</dict>
-		<key>MacOS/x86_64/libslirp.0.dylib</key>
-		<dict>
-			<key>cdhash</key>
-			<data>
-			6FZtUcGh6RnBiQxaK29Rcs3AZKY=
-			</data>
-			<key>requirement</key>
-			<string>identifier "libslirp.0" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "533UMV53L8"</string>
-		</dict>
-		<key>MacOS/x86_64/libsndfile.1.dylib</key>
-		<dict>
-			<key>cdhash</key>
-			<data>
-			zvxllyc4gPYVtUJnZ7HUFqwRa0I=
-			</data>
-			<key>requirement</key>
-			<string>identifier "libsndfile.1" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "533UMV53L8"</string>
-		</dict>
-		<key>MacOS/x86_64/libvorbis.0.dylib</key>
-		<dict>
-			<key>cdhash</key>
-			<data>
-			Yiuz8u49BuvP55g1wKhy6TkT7NA=
-			</data>
-			<key>requirement</key>
-			<string>identifier "libvorbis.0" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "533UMV53L8"</string>
-		</dict>
-		<key>MacOS/x86_64/libvorbisenc.2.dylib</key>
-		<dict>
-			<key>cdhash</key>
-			<data>
-			32f9mgU8XgixihmDFms6Ty7SqA4=
-			</data>
-			<key>requirement</key>
-			<string>identifier "libvorbisenc.2" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "533UMV53L8"</string>
 		</dict>
 		<key>Resources/BonjourEvents.app/Contents/CodeResources</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			uOzt0VFgWvPsclqgP6jSexIIRAQ=
-			</data>
 			<key>hash2</key>
 			<data>
 			X9EzThKNqeuWLIfecLZ0xHRG5T6jIMF6w9eoMCpgTXk=
@@ -705,10 +584,6 @@
 		</dict>
 		<key>Resources/BonjourEvents.app/Contents/Info.plist</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			pd624QjIDR+yyY2ePUWbX6t39d0=
-			</data>
 			<key>hash2</key>
 			<data>
 			Ie/BSposrV9P0vtD0VgGq3tN9V3iYZmwcA9X0wsNYRE=
@@ -716,21 +591,13 @@
 		</dict>
 		<key>Resources/BonjourEvents.app/Contents/MacOS/BonjourEvents</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			OEvF8j8gr5R5RkkzOaeb50Ysw4Y=
-			</data>
 			<key>hash2</key>
 			<data>
-			i8246yc95bWHIXw6Bv7YfytK2y9r/t0FDnkXhEGqWqQ=
+			2Wuz9sfw4uORtPyhHrE1PGwlU+XmiE9jmlmO0wMHl9U=
 			</data>
 		</dict>
 		<key>Resources/BonjourEvents.app/Contents/PkgInfo</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			n57qDP4tZfLD1rCS43W0B4LQjzE=
-			</data>
 			<key>hash2</key>
 			<data>
 			glAhkclISwTWhTdPmHmgBmBpxJuKyuegSwHTjQfo7KA=
@@ -738,10 +605,6 @@
 		</dict>
 		<key>Resources/BonjourEvents.app/Contents/Resources/Base.lproj/MainMenu.nib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			+P5IKv+ufXkJZN6GxBCrfqZThwE=
-			</data>
 			<key>hash2</key>
 			<data>
 			1BoKt7ykvsCkx4Coi+BiIRXeLcTXt5f6Bz5kN3+tVDQ=
@@ -751,10 +614,6 @@
 		</dict>
 		<key>Resources/BonjourEvents.app/Contents/Resources/BonjourEvents.sdef</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			IB2UMRkFhydyxZCM7NQuSOakE5M=
-			</data>
 			<key>hash2</key>
 			<data>
 			7Tc+m7ewoEPLW34MYmnOuoW9kwGqgi9V+F+7to7hDCI=
@@ -762,10 +621,6 @@
 		</dict>
 		<key>Resources/BonjourEvents.app/Contents/Resources/Localizable.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			TPJ6eL4pAxP5DRjT5IQ1Re1zpPw=
-			</data>
 			<key>hash2</key>
 			<data>
 			3P98kPTsbvh9M1OrRq95Pkfocs/FuZomnV915Y6rTTM=
@@ -773,21 +628,13 @@
 		</dict>
 		<key>Resources/BonjourEvents.app/Contents/_CodeSignature/CodeResources</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			h7GLC3LhV+lLtE1iIh8a3MIpbpk=
-			</data>
 			<key>hash2</key>
 			<data>
-			HOENJT9mf1F0IyrruSZfwJAxcmLf8qPveEeqZw7wNa8=
+			8+NNdYcx93hj/653anqOXoqpdxI6Wv0GkPw5uPDjxhU=
 			</data>
 		</dict>
 		<key>Resources/Credits.rtf</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			l/pPdq103rne9CZmxaxPJBPnpDI=
-			</data>
 			<key>hash2</key>
 			<data>
 			SECyq8CEPb7umqlQxx0qirYLUIwg03GPtli/usg8ikM=
@@ -795,10 +642,6 @@
 		</dict>
 		<key>Resources/Nouveau_IBM.ttf</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			X5HkKu1svH23GXGBo3i05OKkG28=
-			</data>
 			<key>hash2</key>
 			<data>
 			u9jMq9+G2aiS1jkux2bb/6Q490EuwBXVU+qmzXzHdH4=
@@ -806,10 +649,6 @@
 		</dict>
 		<key>Resources/SarasaGothicFixed.ttf</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			KhXfpoLfH/hB4gkjSKpqJGDkCBA=
-			</data>
 			<key>hash2</key>
 			<data>
 			iQmR1gw67qQwWNDCnccvzEKNJnDjjB2U1dG/rgNDeo8=
@@ -817,87 +656,48 @@
 		</dict>
 		<key>Resources/clippcl.sh</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			3qKxJpDeKjWW5Ngtx4mZ9Unjj+0=
-			</data>
 			<key>hash2</key>
 			<data>
-			qmDc26+4AtxXEVodFkRt82TlmmgEJB9hE2COycvxyF4=
+			Sp3WjK/lr9n7tmV85/E8EcFHPfCwGYj2DG42PN74lM8=
 			</data>
 		</dict>
 		<key>Resources/clipps.sh</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Wc7rIt+1uz8d2a/4LwIonPmZ6XQ=
-			</data>
 			<key>hash2</key>
 			<data>
-			yKuVREEeszdDzrnKNITESoF5jAmgQRfRxIapV/UHh3c=
+			HA5RzWRwd4DEquMlGWfbmONXB4rC7GAR19lwKwuHC00=
 			</data>
 		</dict>
 		<key>Resources/cliptext.sh</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			c19QL/BWpnsLg+4+Z7yomR8qAlI=
-			</data>
 			<key>hash2</key>
 			<data>
-			Ca9bj3R407Ta2/K7j4VsuMfE8bpo2D6zE0pZkftIcVU=
+			ZnjhI/x7YTomNbh2IivJ9x128Pjm34C/DwuOpY+WiK4=
 			</data>
 		</dict>
 		<key>Resources/confbak.bat</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			9NEltAHKcaoNj5DOvzNDnFN1bQI=
-			</data>
 			<key>hash2</key>
 			<data>
-			dZ8nJWBa6cWG4RnpInZSrCtET+qiEAQcqo55RyJkhUo=
+			5vDJgfxXPDT9kR1BjSyuhVDNnSSMSMinMXnQ6V6hBZ0=
 			</data>
 		</dict>
 		<key>Resources/defaultprint.sh</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			eU5bD0PXO3qCIxNOx90EUVwgWE4=
-			</data>
 			<key>hash2</key>
 			<data>
-			pODa6xZuiFY3bIkCNGcSN0uZ9039H8lWKFmHbHVFSI0=
+			akJ/x+7j45Bkf3JRkUsBFZhGmV/MvzK8Nj0um2ywSHY=
 			</data>
 		</dict>
 		<key>Resources/dosbox-x.conf</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			ZrXxjjbA1V4EOWrj59AB8W9zRHY=
-			</data>
 			<key>hash2</key>
 			<data>
-			+qGS8T/ZmjGHV8VxEHQ0Zeq/FFMr1gt6AG2vbNXRb8c=
-			</data>
-		</dict>
-		<key>Resources/dosbox-x.icns</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			EFe4HCokaJ7VNXzScsXHW6HKimk=
-			</data>
-			<key>hash2</key>
-			<data>
-			0aUsFJVRp01Ki7uqn+czJ+XdFrkRaAyjQ6zoZoQV20M=
+			oiIMWL2wLC5GUyTQiRHPo0qui+K/01QiT/9ci1xHf1M=
 			</data>
 		</dict>
 		<key>Resources/dosbox-x.reference.conf</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			aa0pbvg5ifW/AMXUPZgNCml8RwY=
-			</data>
 			<key>hash2</key>
 			<data>
 			E300oAQV4boYRHG+tokOQCNQw410bOX6CdgNhkACNLE=
@@ -905,10 +705,6 @@
 		</dict>
 		<key>Resources/dosbox-x.reference.full.conf</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			NKISUiWzqwrKKfAIkZbWSl29y6w=
-			</data>
 			<key>hash2</key>
 			<data>
 			MXLX0FdTC3+TLypVHOchsrih1TrjnEOs20cHxMw+Cp4=
@@ -916,21 +712,13 @@
 		</dict>
 		<key>Resources/drivez/readme.txt</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Su2qGkbo9LK15pAUGGPAuw+aC0E=
-			</data>
 			<key>hash2</key>
 			<data>
-			Yrjhd8ADkGB8x8FaXuFXlKPMEkRzTsRHAH7z7/uuBAY=
+			pGjBFj7hu5akFiwLF5Cxh/qmqEfEsciVgjv0vlqxO4Y=
 			</data>
 		</dict>
 		<key>Resources/freecg98.bmp</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			4At3yr1ZYGRqvF285VaPEh03rkg=
-			</data>
 			<key>hash2</key>
 			<data>
 			kddTFKxPlAqxOzwz+yYO8XE4ZdAlqU8J9oFKcuR9+oc=
@@ -938,21 +726,13 @@
 		</dict>
 		<key>Resources/glshaders/ScanLine.glsl</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			d7RwLzTV/+WCSLC9k7+eflbvyrs=
-			</data>
 			<key>hash2</key>
 			<data>
-			xaD+0xM2JAPlrtzIYx/6LUuRQA8IZ+RwSEXGwvCtHF0=
+			TmD7HrlO69R8o+SBnvpFFjFHHwNLWNMZJfP6dEQbx8w=
 			</data>
 		</dict>
 		<key>Resources/glshaders/advinterp2x.glsl</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			2jmj7l5rSw0yVb/vlWAYkK/YBwk=
-			</data>
 			<key>hash2</key>
 			<data>
 			47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=
@@ -960,10 +740,6 @@
 		</dict>
 		<key>Resources/glshaders/advinterp3x.glsl</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			2jmj7l5rSw0yVb/vlWAYkK/YBwk=
-			</data>
 			<key>hash2</key>
 			<data>
 			47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=
@@ -971,10 +747,6 @@
 		</dict>
 		<key>Resources/glshaders/advmame2x.glsl</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			2jmj7l5rSw0yVb/vlWAYkK/YBwk=
-			</data>
 			<key>hash2</key>
 			<data>
 			47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=
@@ -982,10 +754,6 @@
 		</dict>
 		<key>Resources/glshaders/advmame3x.glsl</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			2jmj7l5rSw0yVb/vlWAYkK/YBwk=
-			</data>
 			<key>hash2</key>
 			<data>
 			47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=
@@ -993,10 +761,6 @@
 		</dict>
 		<key>Resources/glshaders/crt-aperture.glsl</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			YYF8yhxOYBMbXlERdUxeLgsXRs4=
-			</data>
 			<key>hash2</key>
 			<data>
 			eSoWdBDwN20fw2urdQetRSdxWGq0BQ6ZZQOKFWhG6Kk=
@@ -1004,10 +768,6 @@
 		</dict>
 		<key>Resources/glshaders/crt-caligari.glsl</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			PUno3iyBCf4+P+h3g/UoAdtB8yo=
-			</data>
 			<key>hash2</key>
 			<data>
 			LpmZ0m4DJF1xZzzY73XPJ0rSHV8CmZqzf3M83Lytw/s=
@@ -1015,10 +775,6 @@
 		</dict>
 		<key>Resources/glshaders/crt-easymode.glsl</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			8CAk2B7JVaHyYC/+DrytkyNUFXU=
-			</data>
 			<key>hash2</key>
 			<data>
 			z8v6SDHRblEK33fJ/UJilm/UOwr/eSwqzroVC9m1uNU=
@@ -1026,10 +782,6 @@
 		</dict>
 		<key>Resources/glshaders/crt-easymode.tweaked.glsl</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			+JVhJfFyVMbwzEpDpX4bjw49x0Y=
-			</data>
 			<key>hash2</key>
 			<data>
 			F6KN8rFYu80hzDTdxdE42Nxj2nRYIDmE7yetl1OcDqs=
@@ -1037,10 +789,6 @@
 		</dict>
 		<key>Resources/glshaders/crt-geom.glsl</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			HSYNhAXxSkJt1QWcqIWM3j4jeEU=
-			</data>
 			<key>hash2</key>
 			<data>
 			UaQbEIlKcbkM2IZTjlqqbwuD+V8odAPW6NKjm2ORUAk=
@@ -1048,10 +796,6 @@
 		</dict>
 		<key>Resources/glshaders/crt-geom.tweaked.glsl</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			WLWOcriSDYYKH7TbfzCoJuDi7lo=
-			</data>
 			<key>hash2</key>
 			<data>
 			xnZsS8rmv2dQbIs1frGKIG28CEJCFc/bJi6apNIz9I0=
@@ -1059,10 +803,6 @@
 		</dict>
 		<key>Resources/glshaders/crt-hyllian.glsl</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			8HBq+NIrWcwCaCkdqSs+G4738eQ=
-			</data>
 			<key>hash2</key>
 			<data>
 			iVrFelV/iG2Ol+xTduxHY7kZXMt87dXqWUWVjjkV7Xs=
@@ -1070,10 +810,6 @@
 		</dict>
 		<key>Resources/glshaders/crt-lottes-fast.glsl</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			5kYx8pCDfO7jr1sqjoCkPD9HuOo=
-			</data>
 			<key>hash2</key>
 			<data>
 			NWjOGTslF5CQEeHxuCZo5bs1BPzGG1xTH/xXIxiM7vU=
@@ -1081,10 +817,6 @@
 		</dict>
 		<key>Resources/glshaders/crt-lottes-fast.subtle+gain.glsl</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			D/0gd/ByDfvHTSgp52l75XBHURU=
-			</data>
 			<key>hash2</key>
 			<data>
 			4Pp8hkSuMq4gkNmaJYysQDFk4sEUPZ5txvXgJOWsiVQ=
@@ -1092,10 +824,6 @@
 		</dict>
 		<key>Resources/glshaders/crt-lottes.glsl</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			iTIVwpMzt58GPX1ZK/fEKBB7paA=
-			</data>
 			<key>hash2</key>
 			<data>
 			OQavPiQougJmCf40wGQ7AXdgOpRqaGpGVZPyPhwP4zM=
@@ -1103,21 +831,13 @@
 		</dict>
 		<key>Resources/glshaders/crt-lottes.tweaked.glsl</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			lKTccXA1ny8x2HkgW0fHWz0DIYA=
-			</data>
 			<key>hash2</key>
 			<data>
-			wJuhBox0WYJPFVrK32YJE+n2MG4MILJzCOpDVCAVUmk=
+			5b7Cc4yvgPzn1icgbThaGw3hugjx+6RA3T1oK/pcyig=
 			</data>
 		</dict>
 		<key>Resources/glshaders/crt-nes-mini.glsl</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			HlSleJcF/zGG5PAIfUazVz6+sIo=
-			</data>
 			<key>hash2</key>
 			<data>
 			MwucK6dzFg8554En5UhDUatD1u6O9YHWUsnczlozKuY=
@@ -1125,10 +845,6 @@
 		</dict>
 		<key>Resources/glshaders/crt-pi.glsl</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			CxiwfbUC0D5TH1IJKY9hW/HzcOU=
-			</data>
 			<key>hash2</key>
 			<data>
 			JUBD4nm2Nv1L4UlCU456yuyDJvPPmSuGgNBosihiVCo=
@@ -1136,10 +852,6 @@
 		</dict>
 		<key>Resources/glshaders/default.glsl</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			2jmj7l5rSw0yVb/vlWAYkK/YBwk=
-			</data>
 			<key>hash2</key>
 			<data>
 			47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=
@@ -1147,10 +859,6 @@
 		</dict>
 		<key>Resources/glshaders/fakelottes.glsl</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			E9ZK6QHaFxZ3o4cSeHR7l7JFAgI=
-			</data>
 			<key>hash2</key>
 			<data>
 			ZBT0ixxIo5PXXsFJv/xIaDVpsny/R2Uuxz+3hbVo6bs=
@@ -1158,10 +866,6 @@
 		</dict>
 		<key>Resources/glshaders/fakelottes.tweaked.glsl</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			sIQ52u5RvNuNVr/fl1ix0dXkiyo=
-			</data>
 			<key>hash2</key>
 			<data>
 			DKGIjexthJ3Qy3aNVIhTRyv1aooWNraKRW/XnThQ6Mo=
@@ -1169,21 +873,13 @@
 		</dict>
 		<key>Resources/glshaders/glshaders.txt</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			oY8ji3CuagTjALDzfNotAsL/n3k=
-			</data>
 			<key>hash2</key>
 			<data>
-			Lwsehz+29jLoTfYyuLA1cfwoNHvOnf/XHUE8NKZOkSM=
+			culhHCjIZ5afySIGorfeVX/yBRQ5UUTBuHOwiJEe3BM=
 			</data>
 		</dict>
 		<key>Resources/glshaders/none.glsl</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			2jmj7l5rSw0yVb/vlWAYkK/YBwk=
-			</data>
 			<key>hash2</key>
 			<data>
 			47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=
@@ -1191,10 +887,6 @@
 		</dict>
 		<key>Resources/glshaders/pixel_perfect-scanlines.glsl</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			XSNju8Yq8eP09d990oeEr0/5mCE=
-			</data>
 			<key>hash2</key>
 			<data>
 			WPl2zVl7AY+I05yO18ACFTeFeJ8W4jY/wQgQUBXsTmg=
@@ -1202,10 +894,6 @@
 		</dict>
 		<key>Resources/glshaders/pixel_perfect.glsl</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Usxi8BdvDMgvuTIl3+gyTbeDzFk=
-			</data>
 			<key>hash2</key>
 			<data>
 			2nRswcxGGt2AQV4uD8SiqrL4ZxC1YWqRJTo0ulC39Rs=
@@ -1213,10 +901,6 @@
 		</dict>
 		<key>Resources/glshaders/pixellate.glsl</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			TYc+6LqsIHr5MNuYrRrbTQ/pTiI=
-			</data>
 			<key>hash2</key>
 			<data>
 			zfl22EjEDWXmjxZEP4XCVjtb4Exfj4nOecY/k3xkUxY=
@@ -1224,10 +908,6 @@
 		</dict>
 		<key>Resources/glshaders/rgb2x.glsl</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			2jmj7l5rSw0yVb/vlWAYkK/YBwk=
-			</data>
 			<key>hash2</key>
 			<data>
 			47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=
@@ -1235,10 +915,6 @@
 		</dict>
 		<key>Resources/glshaders/rgb3x.glsl</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			2jmj7l5rSw0yVb/vlWAYkK/YBwk=
-			</data>
 			<key>hash2</key>
 			<data>
 			47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=
@@ -1246,10 +922,6 @@
 		</dict>
 		<key>Resources/glshaders/scan2x.glsl</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			2jmj7l5rSw0yVb/vlWAYkK/YBwk=
-			</data>
 			<key>hash2</key>
 			<data>
 			47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=
@@ -1257,10 +929,6 @@
 		</dict>
 		<key>Resources/glshaders/scan3x.glsl</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			2jmj7l5rSw0yVb/vlWAYkK/YBwk=
-			</data>
 			<key>hash2</key>
 			<data>
 			47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=
@@ -1268,10 +936,6 @@
 		</dict>
 		<key>Resources/glshaders/sharp.glsl</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			2jmj7l5rSw0yVb/vlWAYkK/YBwk=
-			</data>
 			<key>hash2</key>
 			<data>
 			47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=
@@ -1279,10 +943,6 @@
 		</dict>
 		<key>Resources/glshaders/tv2x.glsl</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			2jmj7l5rSw0yVb/vlWAYkK/YBwk=
-			</data>
 			<key>hash2</key>
 			<data>
 			47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=
@@ -1290,10 +950,6 @@
 		</dict>
 		<key>Resources/glshaders/tv3x.glsl</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			2jmj7l5rSw0yVb/vlWAYkK/YBwk=
-			</data>
 			<key>hash2</key>
 			<data>
 			47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=
@@ -1301,10 +957,6 @@
 		</dict>
 		<key>Resources/glshaders/xbr-lv2-3d.glsl</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			kuxqTw/SsRc4GU6+9WfhR/+cw7U=
-			</data>
 			<key>hash2</key>
 			<data>
 			jv0vpZGjdYT8n3LeCN1o158W5CaKM+EbKY+f1v5tLII=
@@ -1312,10 +964,6 @@
 		</dict>
 		<key>Resources/glshaders/xbr-lv2-noblend.glsl</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			UxjuAQOJlQ9RaLuWkzMEBt8PXAA=
-			</data>
 			<key>hash2</key>
 			<data>
 			HDZYqM1XouVHbVpT1dqjA44sR8tvGUZkNXiOD2F+dFI=
@@ -1323,10 +971,6 @@
 		</dict>
 		<key>Resources/glshaders/xbr-lv2.glsl</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			TETbfE1SWswPZw5ZTX8xZwjVhRY=
-			</data>
 			<key>hash2</key>
 			<data>
 			EHwZbL5EuMaUPBjvV70s/0cnMZTSbdpAuhGv0YjQhWw=
@@ -1334,10 +978,6 @@
 		</dict>
 		<key>Resources/glshaders/xbr-lv3.glsl</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			d/1len0vszRgncb5YOmA55tgkX0=
-			</data>
 			<key>hash2</key>
 			<data>
 			Yz3MIkr+cwukvvkEz+EWBqkeJ1SatUr1RMWdoUv/6Ns=
@@ -1345,10 +985,6 @@
 		</dict>
 		<key>Resources/glshaders/yee64.glsl</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			WMgdH5GIRV5KH6kr/c2/aOqYlgQ=
-			</data>
 			<key>hash2</key>
 			<data>
 			pnc8SNp1jHzMsDTllabmrs674qW1TqWJ2vXksT+EAV4=
@@ -1356,10 +992,6 @@
 		</dict>
 		<key>Resources/glshaders/yeetron.glsl</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			qch+JoomMdCfpU7IZ7Ufy2VbViI=
-			</data>
 			<key>hash2</key>
 			<data>
 			wyq0l/EplFeOXwCCXEpPp1xskKZeEB+PG69GHoUeWRU=
@@ -1367,43 +999,27 @@
 		</dict>
 		<key>Resources/glshaders/zfast_crt.glsl</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			oQc6C+LU4cZk1n7A3OSUULbX0vI=
-			</data>
 			<key>hash2</key>
 			<data>
-			kuDJxM3rqopCh2u2Nwh/zRLu01OLbxJgltfE5PPpW8c=
+			UWRGl04HvqD3vNXhA/wtMxrsaDx/hVQxXDO+OjosmMU=
 			</data>
 		</dict>
 		<key>Resources/gpcl6</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			56ByoBfToSh2tqE9R/ZBX0jLJTg=
-			</data>
 			<key>hash2</key>
 			<data>
-			fkRefMehqcI2+q/q+xf7COJcadOO0dqAkWtIQfiVxAw=
+			3I81M8M7CVhVey1mAmthLLBuUzLmLEVJOkC/6QJOBMk=
 			</data>
 		</dict>
 		<key>Resources/gs</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			YYDpG5VErpAgJMiQa9i2kdsG6Sc=
-			</data>
 			<key>hash2</key>
 			<data>
-			3z22zMKnU+8x+MFH0kAEkOreLSGJfSuGx7mPOmQZtCk=
+			cHM0oDjIh7PX9blApJIMkPpEc7+835XzY5Kh1CvQrDg=
 			</data>
 		</dict>
 		<key>Resources/languages/de_DE.lng</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			i9O3+vFqgN6FHOTS1/MxBuXEHB8=
-			</data>
 			<key>hash2</key>
 			<data>
 			/d/T85cUb4jycDEdGOyxeUju/RoQPH/T9AC2tcEZ3U4=
@@ -1411,10 +1027,6 @@
 		</dict>
 		<key>Resources/languages/de_pc98.lng</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			iIWc+GTk1PXS51MdSpEToVswO+Y=
-			</data>
 			<key>hash2</key>
 			<data>
 			Pz2MuWTc5QR16xKPLV2JZ2DxpZBNrdW7VMa/8uxVEgM=
@@ -1422,32 +1034,20 @@
 		</dict>
 		<key>Resources/languages/en_US.lng</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			nXZRUl69FWfKbmcKltdgPGujBN8=
-			</data>
 			<key>hash2</key>
 			<data>
-			wQWdA9Hm2JKOvWnOyQmmHk4K2xWxvVPzEikanPNoo8Y=
+			MS4hP5PxuTxGnESbtuSvx+HSC6rG8e6/I9ALu6RKpJs=
 			</data>
 		</dict>
 		<key>Resources/languages/es_ES.lng</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			RQYQz95HxNSurevOTVtVmDjHKfE=
-			</data>
 			<key>hash2</key>
 			<data>
-			fCDAL3cHBhaGCDOm6+yJC/zj1EBF3UvShJMz11E6Yxg=
+			BLpcuC41PSarpG9SGT/faGIiGRSddLtU35NSQZoB9Ys=
 			</data>
 		</dict>
 		<key>Resources/languages/fr_FR.lng</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			2IUHuYL7NYO+JtAl59BcySBNX3k=
-			</data>
 			<key>hash2</key>
 			<data>
 			8JzV3HXBFjLJD5dT2ZIEw+5d6vZzdvlsbTKurv1cUWc=
@@ -1455,10 +1055,6 @@
 		</dict>
 		<key>Resources/languages/hu_HU.lng</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			nJG9VaeH3PkyC7h21Xf1xFAJq4I=
-			</data>
 			<key>hash2</key>
 			<data>
 			X+cNegHCKk+PgGk5Zke25hVdQ2I//1j6bo4ZmRQnH0E=
@@ -1466,10 +1062,6 @@
 		</dict>
 		<key>Resources/languages/it_IT.lng</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			I4q0zRrTeXNXclpqiue7se2iVcM=
-			</data>
 			<key>hash2</key>
 			<data>
 			Jfz4pX3epWZG5BDpfwGUfFQIXJnxaMbXKoBbdm15lGs=
@@ -1477,10 +1069,6 @@
 		</dict>
 		<key>Resources/languages/ja_JP.lng</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			bT2AW48naMAgrcULu5Oe//4YMIE=
-			</data>
 			<key>hash2</key>
 			<data>
 			BDa1v/n0+G31NTo9PBDitG3TgFKiPVOGaQBks1TQQHE=
@@ -1488,32 +1076,20 @@
 		</dict>
 		<key>Resources/languages/ko_KR.lng</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			QJvWSqLkmUuVqIySTCcS+sEn93w=
-			</data>
 			<key>hash2</key>
 			<data>
-			goJZCmsD1zjaz447VcL6rM7yeJGdoWW7i7JXsBLlUdE=
+			0zkCLyM4e+w688waQFhwrg2Z+FcMGLmp1xG16+mDo6s=
 			</data>
 		</dict>
 		<key>Resources/languages/nl_NL.lng</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			5MLY1tVBr6BIO9PVXvRTNPJCczU=
-			</data>
 			<key>hash2</key>
 			<data>
-			EDH0iau7sJAUjGn9RXrBP4kPvvkRxknVY+1ZAldUTHs=
+			UdlUCNyxtJl3S1RR3aJf7jwD8/62KsGDHUCBuvKJLzU=
 			</data>
 		</dict>
 		<key>Resources/languages/pt_BR.lng</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			j0vmraJWbTSigAv64LlJtCTk/sM=
-			</data>
 			<key>hash2</key>
 			<data>
 			sM+Koam393jKwdZK9kymcB8urD2qQjA3yWaDvYIz0TE=
@@ -1521,10 +1097,6 @@
 		</dict>
 		<key>Resources/languages/ru_RU.lng</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			ezEEOf4aeO1j+HFpswWNdMGRMqg=
-			</data>
 			<key>hash2</key>
 			<data>
 			mt/x1kfO/2lv/N4faZFAxu+YBufb8sQw15nKu8oHOZM=
@@ -1532,230 +1104,146 @@
 		</dict>
 		<key>Resources/languages/tr_TR.lng</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			KKTHT0dN9XbWMv66xfXCQDJOQ6k=
-			</data>
 			<key>hash2</key>
 			<data>
-			fHX7YFoZSSM1yXcQ8+peDR5jHudVUhmsYFrHlisdHR4=
+			dzpMBskcUlgeRFn3Kd6BMMGY2YzksJqnIwe5g+UiK4I=
 			</data>
 		</dict>
 		<key>Resources/languages/zh_CN.lng</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			0NBOuhGaBckLgH+IR5Sp8lmk1fU=
-			</data>
 			<key>hash2</key>
 			<data>
-			vu/NZZowHHVfdtA7Qn71Bxofwq8ENajGJb0S0HspARc=
+			VZtsi9Ho9Ej96lVv2HOKxlfqxgNd/wvufYybqUgsmvs=
 			</data>
 		</dict>
 		<key>Resources/languages/zh_TW.lng</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			b7rtU27bGtzyhBHnB4Dy4Fy+WSI=
-			</data>
 			<key>hash2</key>
 			<data>
-			64I/9Q/jtVgWZdUba/xnJHlh83aouEG0ys/rxaPBrO4=
+			aW/f2PjkbSCV4ZyT1kyMBl07TJftPZ+q4loRSXKIJXE=
 			</data>
 		</dict>
 		<key>Resources/makebak.bat</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			pZpw7iYAhqYg/xdy8unVrVVaNTI=
-			</data>
 			<key>hash2</key>
 			<data>
-			pEBUJTk5AyyRaHM8pD1YEXFg25wHFQgLyIuSU2zQcW0=
+			3srUmrHK8/VMHOTzZ0m6K3TPcWyyM4e5T2t2zSAxEk4=
 			</data>
 		</dict>
 		<key>Resources/nenscript</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			EA8s+iOh4uXNLOVrIPr+m7Jjc9k=
-			</data>
 			<key>hash2</key>
 			<data>
-			zpSTk4S5rJkFtoGk9hM4Gefvq35MT06ef00bKszMj/Q=
+			R2/0UZk/J3i/XGoYVX//zMDrEjO+7IDTkeD263jUmPI=
 			</data>
 		</dict>
 		<key>Resources/pclpdf.sh</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			zbtMQ8l73nF9pWnrHwc7b8/+N4o=
-			</data>
 			<key>hash2</key>
 			<data>
-			x77nMtrMEOzAtxxVxas5gMxQVCMxfrJ0FmTTrU5vPbc=
+			0cKxTlAtVGF1j8iqujvxs79iTvleRQzNPVKoXCe7yW8=
 			</data>
 		</dict>
 		<key>Resources/pclprint.sh</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			LEuEOONK1K0BL2vOV2G714J9k5E=
-			</data>
 			<key>hash2</key>
 			<data>
-			RqpiySK5UDOd7euJoFyO+orpp5p1TIEkc/1m1U8/4os=
+			1tOxDebO3/mAQ/GBq13z+YwNgnrYN/y9hFX3JtA13GM=
 			</data>
 		</dict>
 		<key>Resources/pclselect.sh</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			cm/4kmuaOV/xmkadEP17Cmg/32M=
-			</data>
 			<key>hash2</key>
 			<data>
-			R0SU2pdpfwtcHV0ZmpNn4r0Tr1yJwW8HTjYTjvp5k14=
+			g6iUY1MkYg4CxBcpQSTIB5yTLpnhaI5NzcQS9Abt7VI=
 			</data>
 		</dict>
 		<key>Resources/pclview.sh</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			19ejjEtZSEZur7nUIoAuFxZfZgM=
-			</data>
 			<key>hash2</key>
 			<data>
-			upPnTE882ecq7YEhq+7kIWveRZjvr69QKJvKmOEyXYo=
+			z7I19k6QG1S6354QKX9VPE3Lu08DHIFepUBYbZx4n/U=
 			</data>
 		</dict>
 		<key>Resources/pspdf.sh</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			qeJLj6gTxZs4m2y2++EcenTvyac=
-			</data>
 			<key>hash2</key>
 			<data>
-			Kdlm6KCx8MKdB3QfgddWpAVY5yjYayctIyRoI/BD+qA=
+			TS4k9k5NkiP1hzR0QZVHFi8bipattdGA18F51HXqd/w=
 			</data>
 		</dict>
 		<key>Resources/psprint.sh</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			4p8jc4dGFGFFxchMLkRilhJI+JA=
-			</data>
 			<key>hash2</key>
 			<data>
-			UKrulKOv6s7HmusqSgUB/3VK58xQQvKXgMzbPSMjw+Y=
+			3na2UTPm8+9CQnr6OMhI+BgUv9jY1GIKFM7F0/Na2X4=
 			</data>
 		</dict>
 		<key>Resources/psselect.sh</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			t2htF4jUYN5EFhTxOTD0HcGre1Q=
-			</data>
 			<key>hash2</key>
 			<data>
-			RQk3i+pN16jvzoqgwkBfKlSmCfzvaEOSEQ8INJxrS1s=
+			rg8S6gvYCNRnlzc8dOtpHZ1jYWfjq+koaaK/RlyVC1s=
 			</data>
 		</dict>
 		<key>Resources/psview.sh</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			/o8FB5WcheM/+gt6qL1DRwyapsw=
-			</data>
 			<key>hash2</key>
 			<data>
-			Hv537GgaJzBQsDzskvuUhMl7sq3Ch62lrcxgfsuRlA8=
+			niW+QuhEYSZxD79s4m1Bl4En2pMSejDQY+sXWd0SWcc=
 			</data>
 		</dict>
 		<key>Resources/selectprint.sh</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			uTK6k7I0WAedQTXlC6qwcRenH8U=
-			</data>
 			<key>hash2</key>
 			<data>
-			HCkGq2U771di8hjKeFSD03Vos74RKqQVCPRStCOKLQc=
+			bSn9evHYo/K8rwy9mCD9cgWfnuG8nSnHr1dXIcevil4=
 			</data>
 		</dict>
 		<key>Resources/selectrawprint.sh</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			8WQm7R4bCjozsRW2eL/LFinvBA0=
-			</data>
 			<key>hash2</key>
 			<data>
-			N0EbAsaDRww+lYj+VXeNpEfu98tUn2IRxj+O6CVduOw=
+			XRwZqCEMG+Z5B1sWY3Sguw8nDUl3eekkNXAHFpr5iU4=
 			</data>
 		</dict>
 		<key>Resources/selraw.sh</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			GWtSQ3vR/B9gxX2bDyyUIQrQbkw=
-			</data>
 			<key>hash2</key>
 			<data>
-			Epz5wsCWNBR5jcYxSKZ76mcBGOtiwPO/O9iU2fSOWgU=
+			Lr+oaagaIBJNvad6FaZDlkImlzsCFWlwsuRnZaJ6/2g=
 			</data>
 		</dict>
 		<key>Resources/textpdf.sh</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			/Q0ugQfwSfddVdHhf1eSyhFp3oo=
-			</data>
 			<key>hash2</key>
 			<data>
-			7/xLOUCzp8dt8Fh1vl3eBHDJWF6MSWUJzUtZttk2GdU=
+			LsPk0+QXDFoDWjTbj09y+cf0NJy+BxW0eaRlMhPO478=
 			</data>
 		</dict>
 		<key>Resources/textprint.sh</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			EKVwHsk3AWsx9/ijeFmRhjlnyZg=
-			</data>
 			<key>hash2</key>
 			<data>
-			azmFLNV9mvqrWRBvCbup8+z/oZcz8JIEHXEwAOJG/Uo=
+			RAXZHeJysfzzU1Zfoy7fM+tLmVTzxsx9Q5Uhq0jsOYw=
 			</data>
 		</dict>
 		<key>Resources/textselect.sh</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			RjJysjjRKJFz24Uui44HLlDaAws=
-			</data>
 			<key>hash2</key>
 			<data>
-			C69tHfNKcef7aGVG8XNDmouCID8tbvgE42zG/0Rc2zE=
+			BsRJ8CSoV+am8e8VK8q8kk9Ub9gqu+IPW8GVQP69uqA=
 			</data>
 		</dict>
 		<key>Resources/textview.sh</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			8HmnPkMpaY650QhqNjTu0cUhRvs=
-			</data>
 			<key>hash2</key>
 			<data>
-			hrrl2VNJWTtOUM2Z/OHoK1Fgus1CNUe/ubpbu20f+8M=
+			IjKTtnF+JyT5g1wvZ3U6BNE2uNehKgmlMDZ5DtyeDS0=
 			</data>
 		</dict>
 		<key>Resources/wqy_11pt.bdf</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			cjsMYUKDIbCspMQ/zZFAaAfU+BU=
-			</data>
 			<key>hash2</key>
 			<data>
 			r2R2a/PfMzbHawTy0HdJgSNzeQufIO1ZwPr3zIpSQa0=
@@ -1763,10 +1251,6 @@
 		</dict>
 		<key>Resources/wqy_12pt.bdf</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			/vy0nLE+oZHSyHtAbBQalXAgQyw=
-			</data>
 			<key>hash2</key>
 			<data>
 			6tms0DyNdJ3d6Jmv7Um6S1DmyhRYWjCRvCOnB0kCz+A=

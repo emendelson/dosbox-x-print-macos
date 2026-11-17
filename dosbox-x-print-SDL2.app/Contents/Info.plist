@@ -1,37 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-    <key>NSPrincipalClass</key>
-    <string>NSApplication</string>
-    <key>NSHighResolutionCapable</key>
-    <string>True</string>
-    <key>CFBundleDevelopmentRegion</key>
-    <string>English</string>
-    <key>CFBundleExecutable</key>
-    <string>dosbox-x</string>
-    <key>CFBundleGetInfoString</key>
-    <string>2024.03.01, Copyright 2022 DOSBox-X</string>
-    <key>CFBundleIconFile</key>
-    <string>dosbox-x.icns</string>
-    <key>CFBundleIdentifier</key>
-    <string>org.wpdos.dosbox-x-print-SDL2</string>
-    <key>CFBundleDocumentTypes</key>
-    <array>
-    </array>
-    <key>CFBundleInfoDictionaryVersion</key>
-    <string>6.0</string>
-    <key>CFBundlePackageType</key>
-    <string>APPL</string>
-    <key>CFBundleShortVersionString</key>
-    <string>2024.03.01</string>
-    <key>CFBundleSignature</key>
-    <string>DOSB</string>
-    <key>CFBundleVersion</key>
-    <string>2024.03.01</string>
-    <key>NSHumanReadableCopyright</key>
-    <string>Copyright 2022 DOSBox-X</string>
-    <key>LSMinimumSystemVersion</key>
-    <string>10.8</string>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>English</string>
+	<key>CFBundleDocumentTypes</key>
+	<array/>
+	<key>CFBundleExecutable</key>
+	<string>dosbox-x</string>
+	<key>CFBundleGetInfoString</key>
+	<string>2024.03.01, Copyright 2022 DOSBox-X</string>
+	<key>CFBundleIconFile</key>
+	<string>AppIcon</string>
+	<key>CFBundleIconName</key>
+	<string>AppIcon</string>
+	<key>CFBundleIdentifier</key>
+	<string>org.wpdos.dosbox-x-print-SDL2</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>2024.03.01</string>
+	<key>CFBundleSignature</key>
+	<string>DOSB</string>
+	<key>CFBundleVersion</key>
+	<string>2024.03.01</string>
+	<key>LSMinimumSystemVersion</key>
+	<string>12.0</string>
+	<key>NSHighResolutionCapable</key>
+	<string>True</string>
+	<key>NSHumanReadableCopyright</key>
+	<string>Copyright 2022 DOSBox-X</string>
+	<key>NSPrincipalClass</key>
+	<string>NSApplication</string>
 </dict>
 </plist>

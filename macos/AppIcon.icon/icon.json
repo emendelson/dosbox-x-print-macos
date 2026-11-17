@@ -1,0 +1,49 @@
+{
+  "fill": {
+    "linear-gradient": [
+      "srgb:0.30600,0.31800,0.40400,1.00000",
+      "srgb:0.29300,0.33800,0.67200,1.00000"
+    ],
+    "orientation": {
+      "start": {
+        "x": 0.5,
+        "y": 0
+      },
+      "stop": {
+        "x": 0.5,
+        "y": 1
+      }
+    }
+  },
+  "groups": [
+    {
+      "layers": [
+        {
+          "glass": false,
+          "image-name": "dosbox-x.svg",
+          "name": "dosbox-x",
+          "position": {
+            "scale": 1.25,
+            "translation-in-points": [
+              0,
+              20
+            ]
+          }
+        }
+      ],
+      "shadow": {
+        "kind": "neutral",
+        "opacity": 0.5
+      },
+      "translucency": {
+        "enabled": false,
+        "value": 0.5
+      }
+    }
+  ],
+  "supported-platforms": {
+    "squares": [
+      "macOS"
+    ]
+  }
+}

@@ -1,6 +1,6 @@
 #!/bin/bash
 
-cd "$(dirname "$0")"
+RES="$(cd "$(dirname "$0")" && pwd)"
 
 # DIR=$(CDPATH= cd -- "$(dirname -- "$0")" && pwd)
 RAW=("$1"/selectraw.prn)
@@ -15,8 +15,8 @@ use scripting additions
 
 on run argv
 	
-	set pdfPath to argv
-	set pdfPosix to pdfPath & "/selectraw.prn"
+	set pdfPath to item 1 of argv
+	set pdfPosix to quoted form of (pdfPath & "/selectraw.prn")
 	set bonjourPosix to (pdfPath & "BonjourEvents.app") as string
 	set msgTitle to "DOSBox-X Printing"
 	
@@ -148,7 +148,7 @@ on run argv
 		*)
 			
 			try
-				do shell script "lpr -rlP " & "\"" & theQueue & "\"" & " " & "\"" &  pdfPosix & "\""
+				do shell script "lpr -rlP " & "\"" & theQueue & "\"" & " " & pdfPosix
 			on error err
 				tell application "System Events"
 					activate

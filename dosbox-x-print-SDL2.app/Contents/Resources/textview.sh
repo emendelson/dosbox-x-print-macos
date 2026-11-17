@@ -2,7 +2,7 @@
 
 # convert text file to arbitrarily-named PDF on desktop; open; then delete when closed
 
-cd "$(dirname "$0")"
+RES="$(cd "$(dirname "$0")" && pwd)"
 
 # echo "$MYDIR">~/Desktop/x.txt
 
@@ -14,8 +14,8 @@ fi
 
 NOW=$( date '+%F_%H:%M:%S' )
 
-./nenscript -p temp.ps -fCourier9 -B -T $PAPER "$1"
-./gs -sBATCH -dNOPAUSE -sDEVICE=pdfwrite -sOutputFile="temporary-$NOW.pdf" temp.ps
+"$RES/nenscript" -p temp.ps -fCourier9 -B -T $PAPER "$1"
+"$RES/gs" -sBATCH -dNOPAUSE -sDEVICE=pdfwrite -sOutputFile="temporary-$NOW.pdf" temp.ps
 
 sleep 1
 

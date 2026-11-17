@@ -1,6 +1,6 @@
 #!/bin/bash
 
-cd "$(dirname "$0")"
+RES="$(cd "$(dirname "$0")" && pwd)"
 
 # Get the default printer's name
 default_printer=$(lpstat -d 2>&1)
@@ -20,11 +20,11 @@ if [ $LOC = "en_US" ] || [ $LOC = "en_CA" ] ; then
 fi
 # PJLPAPER="@PJL SET PAPER=$PAPER"
 
-./gpcl6 -dNOPAUSE -sDEVICE=pdfwrite -sOutputFile=temp.pdf "$1"
+"$RES/gpcl6" -dNOPAUSE -sDEVICE=pdfwrite -sOutputFile=temp.pdf "$1"
 
-DIR=$(CDPATH= cd -- "$(dirname -- "$0")" && pwd)
+DIR="$PWD"
 PDF=("$DIR/temp.pdf")
 
-source ./defaultprint.sh "$PDF"
+source "$RES/defaultprint.sh" "$PDF"
 exit
 
