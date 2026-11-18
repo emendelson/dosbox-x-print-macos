@@ -1,6 +1,6 @@
 #!/bin/bash
 
-cd "$(dirname "$0")"
+RES="$(cd "$(dirname "$0")" && pwd)"
 
 # test for available printers
 PTRS=$( lpstat -p | grep -c "enabled")
@@ -10,9 +10,9 @@ if [ ! "$PTRS" -gt 0 ]; then
 	exit
 fi
 
-DIR=$(CDPATH= cd -- "$(dirname -- "$0")" && pwd)
+DIR="$PWD"
 # PDF=("$DIR/Contents/Resources/Files/select.pdf")
 # PDF=("$DIR/Contents/Resources/Files/")
 
-source ./selectrawprint.sh "$DIR"
+source "$RES/selectrawprint.sh" "$DIR"
 exit

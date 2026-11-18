@@ -1,8 +1,8 @@
 #!/bin/bash
 
-cd "$(dirname "$0")"
+RES="$(cd "$(dirname "$0")" && pwd)"
 
-DIR=$(CDPATH= cd -- "$(dirname -- "$0")" && pwd)
+DIR="$PWD"
 
 PDF="$1"
 
@@ -39,7 +39,7 @@ on run argv
 	end try
 	
 	try
-		tell application "Bonjour Events 2.1"
+		tell application "$RES/BonjourEvents.app"
 			if (exists browser "MyBrowser") then
 				set IPPBrowser to browser "MyBrowser"
 			else
@@ -65,7 +65,7 @@ on run argv
 	set dnsURL to do shell script "lpstat -v " & printerName
 	set dnsString to (do shell script "perl -e 'use URI::Escape; print uri_unescape(\"" & dnsURL & "\")';")
 	
-	if thePrinter is "PDFWriter" then
+	if printerName is "PDFWriter" then
 				set ipPrinterFound to true
 	else 
 		set ipPrinterFound to false

@@ -1,8 +1,8 @@
 #!/bin/bash
 
-cd "$(dirname "$0")"
+RES="$(cd "$(dirname "$0")" && pwd)"
 
-DIR=$(CDPATH= cd -- "$(dirname -- "$0")" && pwd)
+DIR="$PWD"
 PDF=("$DIR"/select.pdf)
 
 osascript - "$PDF" <<EndOfScript
@@ -12,7 +12,7 @@ use scripting additions
 
 on run argv
 	
-	set pdfPosix to argv
+	set pdfPosix to quoted form of (item 1 of argv)
 	set msgTitle to "DOSBox-X Printing"
 	
 	set thePrinter to ""
@@ -79,7 +79,7 @@ on run argv
 			set dnsString to (do shell script "perl -e 'use URI::Escape; print uri_unescape(\"" & dnsURL & "\")';")
 			
 			try
-				tell application "./BonjourEvents.app"
+				tell application "$RES/BonjourEvents.app"
 					if (exists browser "MyBrowser") then
 						set IPPBrowser to browser "MyBrowser"
 					else

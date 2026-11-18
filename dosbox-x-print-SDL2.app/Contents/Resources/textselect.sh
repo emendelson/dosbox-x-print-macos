@@ -1,6 +1,6 @@
 #!/bin/bash
 
-cd "$(dirname "$0")"
+RES="$(cd "$(dirname "$0")" && pwd)"
 
 # test for available printers
 PTRS=$( lpstat -p | grep -c "enabled")
@@ -15,14 +15,14 @@ PAPER="a4"
 if [ $LOC = "en_US" ] || [ $LOC = "en_CA" ] ; then
    PAPER="us"
 fi
-./nenscript -p temp.ps -fCourier9 -B -T $PAPER "$1"
-./gs -sBATCH -dNOPAUSE -sDEVICE=pdfwrite -sOutputFile=select.pdf temp.ps
+"$RES/nenscript" -p temp.ps -fCourier9 -B -T $PAPER "$1"
+"$RES/gs" -sBATCH -dNOPAUSE -sDEVICE=pdfwrite -sOutputFile=select.pdf temp.ps
 
 rm temp.ps
 rm "$1"
 
-DIR=$(CDPATH= cd -- "$(dirname -- "$0")" && pwd)
+DIR="$PWD"
 PDF=("$DIR/select.pdf")
 
-source ./selectprint.sh "$PDF"
+source "$RES/selectprint.sh" "$PDF"
 exit

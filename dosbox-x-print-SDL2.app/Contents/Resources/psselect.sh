@@ -1,6 +1,6 @@
 #!/bin/bash
 
-cd "$(dirname "$0")"
+RES="$(cd "$(dirname "$0")" && pwd)"
 
 # test for available printers
 PTRS=$( lpstat -p | grep -c "enabled")
@@ -10,12 +10,12 @@ if [ ! "$PTRS" -gt 0 ]; then
 	exit
 fi
 
-./gs -sBATCH -dNOPAUSE -sDEVICE=pdfwrite -sOutputFile=select.pdf "$1"
+"$RES/gs" -sBATCH -dNOPAUSE -sDEVICE=pdfwrite -sOutputFile=select.pdf "$1"
 
 rm "$1"
 
-DIR=$(CDPATH= cd -- "$(dirname -- "$0")" && pwd)
+DIR="$PWD"
 PDF=("$DIR/select.pdf")
 
-source ./selectprint.sh "$PDF"
+source "$RES/selectprint.sh" "$PDF"
 exit
