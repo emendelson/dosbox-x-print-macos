@@ -1,6 +1,6 @@
 #!/bin/bash
 #
-# Prepares dosbox-x-print-SDL2.app for distribution on macOS:
+# Prepares dosbox-x-print.app for distribution on macOS:
 #
 #   * merges the per-architecture dylibs (MacOS/arm64, MacOS/x86_64) into
 #     universal dylibs in Contents/Frameworks and relinks dosbox-x to them
@@ -16,7 +16,7 @@
 # The script is idempotent: steps that were already applied are skipped.
 #
 # Usage:
-#   macos/build-bundle.sh [path/to/dosbox-x-print-SDL2.app]
+#   macos/build-bundle.sh [path/to/dosbox-x-print.app]
 #
 # Environment:
 #   SIGN_IDENTITY  codesign identity (default "-" = ad-hoc, for local testing).
@@ -29,7 +29,7 @@
 set -euo pipefail
 
 HERE="$(cd "$(dirname "$0")" && pwd)"
-APP="$(cd "${1:-$HERE/../dosbox-x-print-SDL2.app}" && pwd)"
+APP="$(cd "${1:-$HERE/../dosbox-x-print.app}" && pwd)"
 C="$APP/Contents"
 IDENTITY="${SIGN_IDENTITY:--}"
 # Deployment target for the launcher and the icon. LSMinimumSystemVersion is
