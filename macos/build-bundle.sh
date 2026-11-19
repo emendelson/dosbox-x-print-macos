@@ -32,6 +32,8 @@ HERE="$(cd "$(dirname "$0")" && pwd)"
 APP="$(cd "${1:-$HERE/../dosbox-x-print-SDL2.app}" && pwd)"
 C="$APP/Contents"
 IDENTITY="${SIGN_IDENTITY:--}"
+# Deployment target for the launcher and the icon. LSMinimumSystemVersion is
+# set later to the highest minimum required by any binary in the bundle.
 MIN_MACOS=12.0
 ARCHS=(-arch arm64 -arch x86_64)
 
@@ -41,22 +43,39 @@ say() { printf '==> %s\n' "$*"; }
 if [ -d "$C/MacOS/arm64" ] || [ -d "$C/MacOS/x86_64" ]; then
     say "Merging per-architecture dylibs into Contents/Frameworks"
     mkdir -p "$C/Frameworks"
-    libs=()
-    for f in "$C/MacOS/arm64/"*.dylib; do libs+=("$(basename "$f")"); done
+    # Pair each arm64 dylib with its x86_64 counterpart. Usually the names
+    # match; when the two builds carry different versions of a library
+    # (e.g. libx265.217 vs libx265.216) they are paired by the name before the
+    # first dot and merged as <stem>.dylib.
+    arm=() x86=() out=()
+    for f in "$C/MacOS/arm64/"*.dylib; do
+        a="$(basename "$f")"
+        if [ -f "$C/MacOS/x86_64/$a" ]; then
+            x="$a" o="$a"
+        else
+            stem="${a%%.*}"
+            m=("$C/MacOS/x86_64/$stem".*.dylib)
+            [ ${#m[@]} -eq 1 ] && [ -f "${m[0]}" ] ||
+                { echo "no single x86_64 match for arm64/$a" >&2; exit 1; }
+            x="$(basename "${m[0]}")" o="$stem.dylib"
+            echo "    pairing arm64/$a with x86_64/$x as $o"
+        fi
+        arm+=("$a") x86+=("$x") out+=("$o")
+    done
+    n_x86=$(ls "$C/MacOS/x86_64/"*.dylib | wc -l)
+    [ "$n_x86" -eq ${#arm[@]} ] || { echo "x86_64 has $n_x86 dylibs, arm64 has ${#arm[@]}" >&2; exit 1; }
 
     # -change arguments mapping both old per-arch paths to the new location
     changes=()
-    for lib in "${libs[@]}"; do
-        [ -f "$C/MacOS/x86_64/$lib" ] || { echo "missing x86_64/$lib" >&2; exit 1; }
-        for arch in arm64 x86_64; do
-            changes+=(-change "@executable_path/$arch/$lib" "@executable_path/../Frameworks/$lib")
-        done
+    for i in "${!arm[@]}"; do
+        changes+=(-change "@executable_path/arm64/${arm[$i]}" "@executable_path/../Frameworks/${out[$i]}")
+        changes+=(-change "@executable_path/x86_64/${x86[$i]}" "@executable_path/../Frameworks/${out[$i]}")
     done
 
-    for lib in "${libs[@]}"; do
-        out="$C/Frameworks/$lib"
-        lipo -create "$C/MacOS/arm64/$lib" "$C/MacOS/x86_64/$lib" -output "$out"
-        install_name_tool -id "@executable_path/../Frameworks/$lib" "${changes[@]}" "$out"
+    for i in "${!arm[@]}"; do
+        dst="$C/Frameworks/${out[$i]}"
+        lipo -create "$C/MacOS/arm64/${arm[$i]}" "$C/MacOS/x86_64/${x86[$i]}" -output "$dst"
+        install_name_tool -id "@executable_path/../Frameworks/${out[$i]}" "${changes[@]}" "$dst"
     done
     main="$C/MacOS/dosbox-x"
     [ -f "$C/MacOS/dosbox-x-bin" ] && main="$C/MacOS/dosbox-x-bin"
@@ -95,7 +114,6 @@ plist="$C/Info.plist"
 /usr/libexec/PlistBuddy -c "Set :CFBundleIconFile AppIcon" "$plist"
 /usr/libexec/PlistBuddy -c "Set :CFBundleIconName AppIcon" "$plist" 2>/dev/null ||
     /usr/libexec/PlistBuddy -c "Add :CFBundleIconName string AppIcon" "$plist"
-/usr/libexec/PlistBuddy -c "Set :LSMinimumSystemVersion $MIN_MACOS" "$plist"
 
 # Stray pre-bundle-format signature file; codesign --strict rejects it.
 rm -f "$C/CodeResources"
@@ -113,6 +131,16 @@ while IFS= read -r -d '' f; do
     fi
 done < <(find "$APP" -type f -print0)
 [ $bad -eq 0 ] || { echo "Some binaries are not universal." >&2; exit 1; }
+
+# The app can't run on a system older than its most demanding binary.
+min_os="$(find "$APP" -type f -print0 | while IFS= read -r -d '' f; do
+    file -b "$f" | grep -q 'Mach-O' || continue
+    for a in arm64 x86_64; do
+        vtool -arch "$a" -show-build "$f" 2>/dev/null | awk '$1 == "minos" { print $2 }'
+    done
+done | sort -t. -k1,1n -k2,2n -k3,3n | tail -1)"
+say "Minimum macOS required by the bundled binaries: $min_os"
+/usr/libexec/PlistBuddy -c "Set :LSMinimumSystemVersion $min_os" "$plist"
 
 # ---------------------------------------------------------------- signing
 say "Signing with identity: $IDENTITY"
