@@ -22,7 +22,7 @@
 		</data>
 		<key>Resources/BonjourEvents.app/Contents/MacOS/BonjourEvents</key>
 		<data>
-		3a0lx8T8hbOwggi9Wi5l7pclyqM=
+		VmZG7n+JQ6ivdA427BohiNd6hsM=
 		</data>
 		<key>Resources/BonjourEvents.app/Contents/PkgInfo</key>
 		<data>
@@ -47,7 +47,7 @@
 		</data>
 		<key>Resources/BonjourEvents.app/Contents/_CodeSignature/CodeResources</key>
 		<data>
-		QmR/npc/3sx2j3C7P61CVm5MY4E=
+		h7GLC3LhV+lLtE1iIh8a3MIpbpk=
 		</data>
 		<key>Resources/Credits.rtf</key>
 		<data>
@@ -263,11 +263,11 @@
 		</data>
 		<key>Resources/gpcl6</key>
 		<data>
-		Jnrzj9WFo5QZ48JaKW+B73h6qFU=
+		qM+TcjiujlZ9Ls6MnUEIYVvaW70=
 		</data>
 		<key>Resources/gs</key>
 		<data>
-		14FkXZFYLWcHMRXhp3RdYxM8sC0=
+		PeorBwe2GnqWlVicyPQfYIZDLhg=
 		</data>
 		<key>Resources/languages/de_DE.lng</key>
 		<data>
@@ -335,7 +335,7 @@
 		</data>
 		<key>Resources/nenscript</key>
 		<data>
-		OqxhUuaPIrFall1r3jfNA4eTUEk=
+		PNat5uyomXy5oZyxBbZoYh0zDYM=
 		</data>
 		<key>Resources/pclpdf.sh</key>
 		<data>
@@ -412,706 +412,710 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			npm1JWrFiNiISBuXBHghQFrMx/4=
+			eLnrekKyzTa0xvk9dWPdJZkE2LE=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"9e99b5256ac588d888481b97047821405accc7fe" or cdhash H"336d2c0622687800edb26900ab76477d9f08297c"</string>
+			<string>identifier "libFLAC.14" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "533UMV53L8"</string>
 		</dict>
 		<key>Frameworks/libSvtAv1Enc.4.dylib</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			CmN1V1VzzbgAvA4cUhcvmS6jQVo=
+			L+hXUSkxuKKmbvi65y6qCKOSMzM=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"0a6375575573cdb800bc0e1c52172f992ea3415a" or cdhash H"c4c42477d811a4b115afab148b9c9297f37d1bd0"</string>
+			<string>identifier "libSvtAv1Enc.4" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "533UMV53L8"</string>
 		</dict>
 		<key>Frameworks/libX11.6.dylib</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			880DXdP1o8jhu1f8BT7XvLxLZKE=
+			7m/nxK5ys23WugxQvxDv9yNN2ds=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"f3cd035dd3f5a3c8e1bb57fc053ed7bcbc4b64a1" or cdhash H"87ef633c2ec8f05554da73d5ac94b5333445be57"</string>
+			<string>identifier libX11 and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "533UMV53L8"</string>
 		</dict>
 		<key>Frameworks/libXau.6.dylib</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			1Xqkp6bRCTRoHV+c7JP8yNgqZkQ=
+			jedg9LyqYOIoeHCWgVcKVWWQSnQ=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"d57aa4a7a6d10934681d5f9cec93fcc8d82a6644" or cdhash H"841b796dcdc5034abc6f066447bb83808476edc8"</string>
+			<string>identifier "libXau.6" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "533UMV53L8"</string>
 		</dict>
 		<key>Frameworks/libXdmcp.6.dylib</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			q9LlvBq3B9OXWYYMMSA8MZJRpfI=
+			Q42ngbQLbJbKwOK3d0aPDTaaQdY=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"abd2e5bc1ab707d39759860c31203c319251a5f2" or cdhash H"69a5de36d1f5a155cc2e29f48e49851526620c2e"</string>
+			<string>identifier "libXdmcp.6" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "533UMV53L8"</string>
 		</dict>
 		<key>Frameworks/libaom.3.dylib</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			LN75k3/TNzDndtGw8WmVYeS+Mcw=
+			QRepYLwqFVXyXXga+/77zJmCWiw=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"2cdef9937fd33730e776d1b0f1699561e4be31cc" or cdhash H"e2354e11acc8d6cbe83abfefade6b12302d39d26"</string>
+			<string>identifier "libaom.3" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "533UMV53L8"</string>
 		</dict>
 		<key>Frameworks/libaribb24.0.dylib</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			L0dbGnCDJpidsjwWusJcJBaHvwY=
+			7i/fD8XpJ8ikYZdeb8kmW6c4HKs=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"2f475b1a708326989db23c16bac25c241687bf06" or cdhash H"7d32d0a18fa167afa3b1640acf70f1c891989141"</string>
+			<string>identifier libaribb24 and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "533UMV53L8"</string>
 		</dict>
 		<key>Frameworks/libavcodec.61.dylib</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			CTd1ISblqp4KODA2LdpeScz65kA=
+			8QONNvsSvoBm8vt4iyhzrgRJJIs=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"0937752126e5aa9e0a3830362dda5e49ccfae640" or cdhash H"cc1e1bf1818a60a541766e3c26748aa801b6a419"</string>
+			<string>identifier "libavcodec.61" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "533UMV53L8"</string>
 		</dict>
 		<key>Frameworks/libavformat.61.dylib</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			amyuUPCQJKQIGh4mHz/zP49w9XM=
+			oh6FgsH3gaPfCKu5St1bY5dxous=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"6a6cae50f09024a4081a1e261f3ff33f8f70f573" or cdhash H"1a9c64434c7ccbf7ddc19c7c2589271f47e248aa"</string>
+			<string>identifier "libavformat.61" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "533UMV53L8"</string>
 		</dict>
 		<key>Frameworks/libavutil.59.dylib</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			3A06SOFV7tc+YT7IqxXbZDv9BIo=
+			DUNqxgeFXjGYEPkgF7sZQFTKpkc=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"dc0d3a48e155eed73e613ec8ab15db643bfd048a" or cdhash H"df388ee20f564ec5ecf63692d56bc510aad57568"</string>
+			<string>identifier "libavutil.59" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "533UMV53L8"</string>
 		</dict>
 		<key>Frameworks/libbluray.4.dylib</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			bB+KnjxD40HyQyQ0H23GQIVERpo=
+			socoytrc0Xqt+Zlu44pj1iLqFvg=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"6c1f8a9e3c43e341f24324341f6dc6408544469a" or cdhash H"9f1754d1c403e57f7edc76a11daf489fba28ce6a"</string>
+			<string>identifier "libbluray.4" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "533UMV53L8"</string>
 		</dict>
 		<key>Frameworks/libbrotlicommon.1.dylib</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			8znN+XWZKifSNJJBNFIRZUYhAGE=
+			VmXMY6pkh9e0U1a3vuO9zVsDG/s=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"f339cdf975992a27d23492413452116546210061" or cdhash H"efc85331b35442c9bd17941874ebd19799886536"</string>
+			<string>identifier "libbrotlicommon.1" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "533UMV53L8"</string>
 		</dict>
 		<key>Frameworks/libbrotlidec.1.dylib</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			xZld2pbVzHHcsKKZvF1ElHZ3KSw=
+			yFysiS66XtDbSGf+hbBOCFXz/x4=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"c5995dda96d5cc71dcb0a299bc5d44947677292c" or cdhash H"bd9a1cc83633bbb0c6431459a8368cea23caaaaa"</string>
+			<string>identifier "libbrotlidec.1" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "533UMV53L8"</string>
 		</dict>
 		<key>Frameworks/libbrotlienc.1.dylib</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			uj7z2tXh2pheSl2xyTwOUrOWf3s=
+			8zu1dcLdqf59x667A04dKG/w2Ho=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"ba3ef3dad5e1da985e4a5db1c93c0e52b3967f7b" or cdhash H"3bd2500329cfa1036a1c58971a2d66c565dd611d"</string>
+			<string>identifier "libbrotlienc.1" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "533UMV53L8"</string>
 		</dict>
 		<key>Frameworks/libcjson.1.dylib</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			epyp88GzZ6Sdv8Dzg7ESGYB1DnQ=
+			81AaFxkeoucJtgWjRfVN4G0pots=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"7a9ca9f3c1b367a49dbfc0f383b1121980750e74" or cdhash H"f2d8d0020b0e67f64912d01e6b4fd08df055106e"</string>
+			<string>identifier "libcjson.1" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "533UMV53L8"</string>
 		</dict>
 		<key>Frameworks/libcrypto.3.dylib</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			iOZtzFpLWdcFu9dYfKedk6O8lto=
+			8ysKzLK7DaxmeN3X+3uT/Y+y8UY=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"88e66dcc5a4b59d705bbd7587ca79d93a3bc96da" or cdhash H"6009bd21b1e77d680961f159b1f1e319cacf609d"</string>
+			<string>identifier "libcrypto.3" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "533UMV53L8"</string>
 		</dict>
 		<key>Frameworks/libdav1d.7.dylib</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			FuDfDkjONTugbZDdBN3Wc+b3B4M=
+			KxY0udT9/Jf3b6XoEAoWL1L56RA=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"16e0df0e48ce353ba06d90dd04ddd673e6f70783" or cdhash H"25a9a5415ed97b4bba7e5bf23b5c849d5e851066"</string>
+			<string>identifier "libdav1d.7" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "533UMV53L8"</string>
 		</dict>
 		<key>Frameworks/libfluidsynth.3.dylib</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			sn5BUOpA7C1xXGDBKILijO1zkpA=
+			qmJbDu2yLRJAtG3k5a+a56l9Zgk=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"b27e4150ea40ec2d715c60c12882e28ced739290" or cdhash H"f809b784e79054e3b9a1334e158552293110ee38"</string>
+			<string>identifier "libfluidsynth.3" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "533UMV53L8"</string>
 		</dict>
 		<key>Frameworks/libfontconfig.1.dylib</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			l3qg/Bt3SjFAUnQyMnWeei3Xc1c=
+			HfgM/Fp0U96/tHavzejnuQ1QD4E=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"977aa0fc1b774a314052743232759e7a2dd77357" or cdhash H"5d834732a076104f7cb0f38962f8c98df3da174c"</string>
+			<string>identifier "libfontconfig.1" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "533UMV53L8"</string>
 		</dict>
 		<key>Frameworks/libfreetype.6.dylib</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			kYgHIQda57u6I1/+V+gMiCLymyY=
+			A/jNPJ/ZCdHTvtdRdWQQEh2mLjs=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"91880721075ae7bbba235ffe57e80c8822f29b26" or cdhash H"07df855d894e497810bf60b6367f0851cc0e4f7c"</string>
+			<string>identifier "libfreetype.6" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "533UMV53L8"</string>
 		</dict>
 		<key>Frameworks/libglib-2.0.0.dylib</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			0TAYoeMuLOHqpAUUv5vadPdaRa0=
+			OkVILeTNEedHWvK/LBWjJijG5Q8=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"d13018a1e32e2ce1eaa40514bf9bda74f75a45ad" or cdhash H"c94055f1e4054141c133632fa87af998c8750fd2"</string>
+			<string>identifier "libglib-2" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "533UMV53L8"</string>
 		</dict>
 		<key>Frameworks/libgmp.10.dylib</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			Pzj44bXmABsRcJn8qvvS7r2hnFM=
+			nJLZUvNWB5GMoAyMRUWze6SXLks=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"3f38f8e1b5e6001b117099fcaafbd2eebda19c53" or cdhash H"b4af3de414519a2237462dfa9bacb58f09ef2e4e"</string>
+			<string>identifier "libgmp.10" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "533UMV53L8"</string>
 		</dict>
 		<key>Frameworks/libgnutls.30.dylib</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			1ltXevPC1008et5n+cqYbMQmwJI=
+			KhTdolhdPWvJoWTUztsZHZ/9QHU=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"d65b577af3c2d74d3c7ade67f9ca986cc426c092" or cdhash H"4e73916d33c1ae53ce48600cae51ba624846f7f5"</string>
+			<string>identifier "libgnutls.30" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "533UMV53L8"</string>
 		</dict>
 		<key>Frameworks/libhogweed.7.dylib</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			2XuYn7hC8uUe0I6xEXmOzt91lCk=
+			D5Hjg20nTP0hPpOj5LUkqAnfl8M=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"d97b989fb842f2e51ed08eb111798ecedf759429" or cdhash H"23e547161b17edbf50747f88ffda3d23c295b0e9"</string>
+			<string>identifier "libhogweed.7" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "533UMV53L8"</string>
 		</dict>
 		<key>Frameworks/libhwy.1.dylib</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			9vOe/lIUFSMGMaC0Fjup3fbkUs4=
+			kbAxv4QxkyEZJTxG59pbLtzUsKA=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"f6f39efe521415230631a0b4163ba9ddf6e452ce" or cdhash H"4e75452092f9bc9df5f2adff06bd5b2576705846"</string>
+			<string>identifier "libhwy.1" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "533UMV53L8"</string>
 		</dict>
 		<key>Frameworks/libidn2.0.dylib</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			fuZ72axp8vPc4qblNn73TmaDiqo=
+			79T0GAEL4Pmoy+zXkH4O+UnrNtc=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"7ee67bd9ac69f2f3dce2a6e5367ef74e66838aaa" or cdhash H"68973d25fabb90319bf909531b6ad7de68c69e9b"</string>
+			<string>identifier libidn2 and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "533UMV53L8"</string>
 		</dict>
 		<key>Frameworks/libintl.8.dylib</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			LXdtD4mpLrm0XVxFaYojauxs2nE=
+			H+goJIMxZk5c4mU/lbaviqmH3aY=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"2d776d0f89a92eb9b45d5c45698a236aec6cda71" or cdhash H"0d55867e74848dc826f59bba074b5076c783d71d"</string>
+			<string>identifier "libintl.8" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "533UMV53L8"</string>
 		</dict>
 		<key>Frameworks/libjxl.0.12.dylib</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			0SFd7bgVA1p/wSf2q8M+LN0W4tk=
+			8oML3BVVWkxP3qwObdVAstYEc6w=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"d1215dedb815035a7fc127f6abc33e2cdd16e2d9" or cdhash H"f80f9acfe6bb4f7bcd8fbaee45b7dd66fe8a2b12"</string>
+			<string>identifier "libjxl.0" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "533UMV53L8"</string>
 		</dict>
 		<key>Frameworks/libjxl_cms.0.12.dylib</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			i6w5rbnq95IEijcKbz7hQ3uY7/U=
+			ZlasdjGSpfieAUvaBju6OrjX2pw=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"8bac39adb9eaf792048a370a6f3ee1437b98eff5" or cdhash H"ff8a51ca15856f76ec5e75a51dd2c1f79fe32c21"</string>
+			<string>identifier "libjxl_cms.0" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "533UMV53L8"</string>
 		</dict>
 		<key>Frameworks/libjxl_threads.0.12.dylib</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			iHjVNwGmkEN5vIOuZglNT5nDJDs=
+			Z0rLv8CA9TNxjbeCGUlkSK1Qnrw=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"8878d53701a6904379bc83ae66094d4f99c3243b" or cdhash H"d319f3ecd2c503760f703e9619ac7624d824ddf1"</string>
+			<string>identifier "libjxl_threads.0" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "533UMV53L8"</string>
 		</dict>
 		<key>Frameworks/liblcms2.2.dylib</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			bsYRnwevWTl9+QQxG9/tMAPE7pM=
+			sSgam6ZsBFlHwdIh39s3bJhcwO8=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"6ec6119f07af59397df904311bdfed3003c4ee93" or cdhash H"9264cc11805068a1ed34e5767169855f8f431ea5"</string>
+			<string>identifier liblcms2 and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "533UMV53L8"</string>
 		</dict>
 		<key>Frameworks/liblz4.1.dylib</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			FZNoJkEb1JIs6Z2NJML57QOfPiM=
+			UCc9agNUkmS6v8wuMG03OifIYE8=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"15936826411bd4922ce99d8d24c2f9ed039f3e23" or cdhash H"2fabbefb0922d5d84ed4d855cf7eb5312c6f79ad"</string>
+			<string>identifier liblz4 and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "533UMV53L8"</string>
 		</dict>
 		<key>Frameworks/liblzma.5.dylib</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			LeWg8CfQy9RrotM1CD5R8525ioQ=
+			ygq7rstnQCf16VrRMxqk97tQJY4=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"2de5a0f027d0cbd46ba2d335083e51f39db98a84" or cdhash H"5b4ed8afcd0cf59903200c73ca6dbd5fa2312ea8"</string>
+			<string>identifier "liblzma.5" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "533UMV53L8"</string>
 		</dict>
 		<key>Frameworks/libmbedcrypto.16.dylib</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			YF56WKhXRTr7ovkmP0WDHEHhUUU=
+			PShVxksLC1LjIgTSOJVl0+PdRic=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"605e7a58a857453afba2f9263f45831c41e15145" or cdhash H"40c71a5ffe7ed45ffe3b4cda05938d260db6fcdb"</string>
+			<string>identifier "libmbedcrypto.16" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "533UMV53L8"</string>
 		</dict>
 		<key>Frameworks/libmp3lame.0.dylib</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			aSTfNlt0PozOR0xeL+SNiiPZ5FA=
+			dJSPOAzeLauiDoaYRm5c9bQZ3HY=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"6924df365b743e8cce474c5e2fe48d8a23d9e450" or cdhash H"6a6284ad32367c0993e139beb6c639be64c4b017"</string>
+			<string>identifier "libmp3lame.0" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "533UMV53L8"</string>
 		</dict>
 		<key>Frameworks/libmpg123.0.dylib</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			kVkI2en95XlpmIoAudJPzONgZiI=
+			BL96iLfj0ehoV8C5HuUjN/FVgEQ=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"915908d9e9fde57969988a00b9d24fcce3606622" or cdhash H"25bbcbb1c6a2cb09522967d346211d1fec7184e0"</string>
+			<string>identifier libmpg123 and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "533UMV53L8"</string>
 		</dict>
 		<key>Frameworks/libnettle.9.dylib</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			2eQ61fNviJi+vGdaWnTvt0AONp4=
+			8KBBpPp+t0F+PrYtbw/oS2hyDkg=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"d9e43ad5f36f8898bebc675a5a74efb7400e369e" or cdhash H"36a7ce52331f837cbf9833c2eff024b619ef423c"</string>
+			<string>identifier "libnettle.9" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "533UMV53L8"</string>
 		</dict>
 		<key>Frameworks/libogg.0.dylib</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			RKmPB99PlGAiNUvzPF+aJnJ7D4s=
+			HvoT3p1nwYrvncvgA2g2dmuP25U=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"44a98f07df4f946022354bf33c5f9a26727b0f8b" or cdhash H"3b910ceb517d6f708ab5e6978c272ebb0b0e974c"</string>
+			<string>identifier "libogg.0" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "533UMV53L8"</string>
 		</dict>
 		<key>Frameworks/libopencore-amrnb.0.dylib</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			eJAVcDcARJ1820l11mTNGRMcftQ=
+			ClRpXtgS3LIFkOzhllKokVrN7fk=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"789015703700449d7cdb4975d664cd19131c7ed4" or cdhash H"8c1520de26b9b2cdd68c042d20db76dcd7343e7d"</string>
+			<string>identifier "libopencore-amrnb.0" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "533UMV53L8"</string>
 		</dict>
 		<key>Frameworks/libopencore-amrwb.0.dylib</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			LH7JUiB87bR4qY9M56rvkLf218s=
+			CXo0Cj7CoePNgVpctE8nJbmhnro=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"2c7ec952207cedb478a98f4ce7aaef90b7f6d7cb" or cdhash H"556e821f9644021331ed092f38acbdce1d5160f5"</string>
+			<string>identifier "libopencore-amrwb.0" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "533UMV53L8"</string>
 		</dict>
 		<key>Frameworks/libopenjp2.7.dylib</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			GRhFSiWRrHTt0J7xCXwP2jkjUqU=
+			18ODp5vmtljpyGVrcwAN78wbSms=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"1918454a2591ac74edd09ef1097c0fda392352a5" or cdhash H"2907a52f5c2c95a7214cfc11e70d210e13cb5c2e"</string>
+			<string>identifier libopenjp2 and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "533UMV53L8"</string>
 		</dict>
 		<key>Frameworks/libopus.0.dylib</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			oXTPN+76T8okSMvoo7ooZ73WDC4=
+			xnfR5zzK1cWMAYZuadQUc42S3rY=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"a174cf37eefa4fca2448cbe8a3ba2867bdd60c2e" or cdhash H"78c8c5c77281bcd0c0d2a2a066b79cbc5cfaacf9"</string>
+			<string>identifier "libopus.0" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "533UMV53L8"</string>
 		</dict>
 		<key>Frameworks/libp11-kit.0.dylib</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			Ty6q9/kJfxdBUHgACp22jx9G+tw=
+			0XLvr/8+CZYb6Sb6ok81Y8sfr80=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"4f2eaaf7f9097f17415078000a9db68f1f46fadc" or cdhash H"0c86158bada6979f4d25fe31ecc35ef0608c8d3a"</string>
+			<string>identifier "libp11-kit.0" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "533UMV53L8"</string>
 		</dict>
 		<key>Frameworks/libpcre2-8.0.dylib</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			+uiUmFYKdpmguBSp5hqDKkF1MV4=
+			2RQ0E9azHb63ERIbFwFHfa+INHw=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"fae89498560a7699a0b814a9e61a832a4175315e" or cdhash H"438c238ddcbfa5fca8aca98dfd6b20a7e8e6cd60"</string>
+			<string>identifier "libpcre2-8" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "533UMV53L8"</string>
 		</dict>
 		<key>Frameworks/libpng16.16.dylib</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			UchCiQvz/7ltyFKxe8Vio+Mx4VM=
+			Ksa2gNIR944JZGk5u6HlB0HSfaI=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"51c842890bf3ffb96dc852b17bc562a3e331e153" or cdhash H"628fcd46bc028a687798d6b9ab68f898a39f2a70"</string>
+			<string>identifier libpng16 and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "533UMV53L8"</string>
 		</dict>
 		<key>Frameworks/libportaudio.2.dylib</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			VtLFPyQ+bLZ25tUdd3bBDF3BxNY=
+			oxnaum7dN4gxNQFbGc8B3e27xKU=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"56d2c53f243e6cb676e6d51d7776c10c5dc1c4d6" or cdhash H"462812ade90d69f6607aaac315d41340be3863ea"</string>
+			<string>identifier "libportaudio.2" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "533UMV53L8"</string>
 		</dict>
 		<key>Frameworks/librav1e.0.8.dylib</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			AJD0I1qTAGWarnFCbeMJJcYlouc=
+			awMeR0Zla2H+OD+LUKAIbjnp0PE=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"0090f4235a9300659aae71426de30925c625a2e7" or cdhash H"0a41a93b03dbb89e4bd5cf6a070c9ad667fd64a4"</string>
+			<string>identifier "librav1e.0" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "533UMV53L8"</string>
 		</dict>
 		<key>Frameworks/libreadline.8.dylib</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			0X4pH24/O4FkDGtqyZg77fPkBEc=
+			JSiEBWbSQij0zOJhBaXXxoCufC0=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"d17e291f6e3f3b81640c6b6ac9983bedf3e40447" or cdhash H"60a25955c3b5d7b65fe02a02b42ed7bbf975cfc3"</string>
+			<string>identifier "libreadline.8" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "533UMV53L8"</string>
 		</dict>
 		<key>Frameworks/librist.4.dylib</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			PTxbU76ZQwSvB7wmtBLQAJ8T4Ww=
+			mtDjgdz1mddXy/Gjg+KIyVLHxuY=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"3d3c5b53be994304af07bc26b412d0009f13e16c" or cdhash H"bdd8883f3b20b8ca45cf696d4eb43f6ee68dbb83"</string>
+			<string>identifier "librist.4" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "533UMV53L8"</string>
 		</dict>
 		<key>Frameworks/libsharpyuv.0.dylib</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			e3HMrbAPISfvZgO15wBryqhr7aQ=
+			mZe38SeXv9x1oQUDGiboaj06Npo=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"7b71ccadb00f2127ef6603b5e7006bcaa86beda4" or cdhash H"5e76f33f234a2ca2ceb38092c7acc30a1fa9e18f"</string>
+			<string>identifier "libsharpyuv.0" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "533UMV53L8"</string>
 		</dict>
 		<key>Frameworks/libslirp.0.dylib</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			xRnanCr660aDzqSCs+JjAJppYwU=
+			UTv7uXbZ+ES+tEk/QaBm3ASpamM=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"c519da9c2afaeb4683cea482b3e263009a696305" or cdhash H"a02cb9e15d3ad2b03cc739bf3760cc6cad117014"</string>
+			<string>identifier "libslirp.0" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "533UMV53L8"</string>
 		</dict>
 		<key>Frameworks/libsnappy.1.dylib</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			G8USNgiBqo+iYCmr0//iFDY/CAU=
+			WKTu6VkSqSiPH0/SkQ3qujT2sCg=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"1bc512360881aa8fa26029abd3ffe214363f0805" or cdhash H"26b7caff7dc4c2d3b844c8f4ebb39c1d96d78c87"</string>
+			<string>identifier "libsnappy.1" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "533UMV53L8"</string>
 		</dict>
 		<key>Frameworks/libsndfile.1.dylib</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			FPFu5aCeWjU76p7/eaTrh2esJJM=
+			ZbDJHAF/IVyQ6iXb4i3hJosa0qk=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"14f16ee5a09e5a353bea9eff79a4eb8767ac2493" or cdhash H"22720f009557648d1b8fe2a742b76102807ae82e"</string>
+			<string>identifier "libsndfile.1" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "533UMV53L8"</string>
 		</dict>
 		<key>Frameworks/libsodium.26.dylib</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			uOEm788aMKvvttquSKtreWy8kVU=
+			mN/eWuIxajljGJZxg0VB89OrEuU=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"b8e126efcf1a30abefb6daae48ab6b796cbc9155" or cdhash H"549b4e77d1b64423b4899cad65d493df529ce8c5"</string>
+			<string>identifier "libsodium.26" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "533UMV53L8"</string>
 		</dict>
 		<key>Frameworks/libsoxr.0.dylib</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			EayVlS+m3J8obgScx6k/OFXk31o=
+			lcoOxoiJ0ifdHT1AiB1vPPmL+xs=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"11ac95952fa6dc9f286e049cc7a93f3855e4df5a" or cdhash H"be49e76af982a56ce3aca690a042fe6db521af87"</string>
+			<string>identifier "libsoxr.0" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "533UMV53L8"</string>
 		</dict>
 		<key>Frameworks/libspeex.1.dylib</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			Kq9cmMxXVmm1jM4HE3ScqnWijNo=
+			bMTfxnj7JlYabc8LCn9A5V0re1k=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"2aaf5c98cc575669b58cce0713749caa75a28cda" or cdhash H"5afb45233e339d6384ba9c200eef227fb814e3b6"</string>
+			<string>identifier "libspeex.1" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "533UMV53L8"</string>
 		</dict>
 		<key>Frameworks/libsrt.1.5.dylib</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			ukcO3rk6lbhijps8ShkKe+88Euk=
+			J6VSPagyWXlLV7plnY/wrOdDoeE=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"ba470edeb93a95b8628e9b3c4a190a7bef3c12e9" or cdhash H"53ee252d0af49150dd45534a75966a52a667dc34"</string>
+			<string>identifier "libsrt.1" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "533UMV53L8"</string>
 		</dict>
 		<key>Frameworks/libssh.4.dylib</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			a81Cb4WSdMSUh+uwZhPxeALytog=
+			lTNqmJQ730GhP5uutvRyvvEUdO8=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"6bcd426f859274c49487ebb06613f17802f2b688" or cdhash H"0d4325a37fe01eaf40f76f89c38c12887dff2d91"</string>
+			<string>identifier "libssh.4" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "533UMV53L8"</string>
 		</dict>
 		<key>Frameworks/libssl.3.dylib</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			QVLasBMXqTuuqYW0JKsgqSXj11Y=
+			7rVfxZvm5uPF9Yn7RgdW1fTIY/g=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"4152dab01317a93baea985b424ab20a925e3d756" or cdhash H"7c8fc0ab5fa146336abc9f17be7a39c13cad31a6"</string>
+			<string>identifier "libssl.3" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "533UMV53L8"</string>
 		</dict>
 		<key>Frameworks/libswresample.5.dylib</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			3f4u+vIHgPYYts4bUPibWTHKNxk=
+			o5/0YotVxgWHwUIPLkV09Il1bBY=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"ddfe2efaf20780f618b6ce1b50f89b5931ca3719" or cdhash H"9d0e43a6e01f5cf31fefad9a82112e4cc016c0fa"</string>
+			<string>identifier "libswresample.5" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "533UMV53L8"</string>
 		</dict>
 		<key>Frameworks/libswscale.8.dylib</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			UhnBdWrarYvSh9Ylvil3HGPVzN8=
+			1sN3p8UDJRzGzEh08bKxjoSWFEI=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"5219c1756adaad8bd287d625be29771c63d5ccdf" or cdhash H"8f1d18db9d20c2d72a387c6c2b607745a7be38d2"</string>
+			<string>identifier "libswscale.8" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "533UMV53L8"</string>
 		</dict>
 		<key>Frameworks/libtasn1.6.dylib</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			m414oJ2tIsZuhx18lsg/mrpDwKQ=
+			OWyWRNmPX5/1lWw83kfXEES6slI=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"9b8d78a09dad22c66e871d7c96c83f9aba43c0a4" or cdhash H"336d9f074f547fa5e68c7c31e2243929dbe1c34d"</string>
+			<string>identifier libtasn1 and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "533UMV53L8"</string>
 		</dict>
 		<key>Frameworks/libtheoradec.2.dylib</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			LHGiN6RlYot8dJmyvRpYE66EZRo=
+			bWdcm7dzHuwfi5ns9RcTJlzVoYA=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"2c71a237a465628b7c7499b2bd1a5813ae84651a" or cdhash H"898566250bb9c3077105cb7791eb787c8d7befba"</string>
+			<string>identifier "libtheoradec.2" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "533UMV53L8"</string>
 		</dict>
 		<key>Frameworks/libtheoraenc.2.dylib</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			yuZWJ+b3iZzlnD1W0ykZed3t018=
+			MsRceYOEygXj5ysJsnZ50gpPVsw=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"cae65627e6f7899ce59c3d56d3291979ddedd35f" or cdhash H"ef8c58f206517018fb945dcde334b52416e72c1b"</string>
+			<string>identifier "libtheoraenc.2" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "533UMV53L8"</string>
 		</dict>
 		<key>Frameworks/libudfread.3.dylib</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			DCsCoys49kJh/Wv54CwJJkDIhgE=
+			/gAX3jEwHfuwM+rgo/9kuVCW7PQ=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"0c2b02a32b38f64261fd6bf9e02c092640c88601" or cdhash H"70c8b373ed7c9c1b8014c64237cbdf5a6416ccfd"</string>
+			<string>identifier "libudfread.3" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "533UMV53L8"</string>
 		</dict>
 		<key>Frameworks/libunistring.5.dylib</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			Kg4xSfkKvvTEtbhZ3kdZxhY66sM=
+			lsu4fKOFAoWROAMdcMPDykIdTr0=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"2a0e3149f90abef4c4b5b859de4759c6163aeac3" or cdhash H"9d09b123f8f2933333d9f34e020a85158d8d9bf3"</string>
+			<string>identifier "libunistring.5" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "533UMV53L8"</string>
 		</dict>
 		<key>Frameworks/libvmaf.3.dylib</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			2c3wPwiseVH+p1Pe2wOpGTCg2Lo=
+			TntOVeOQaV8K5+AUCPz6iA7PeVI=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"d9cdf03f08ac7951fea753dedb03a91930a0d8ba" or cdhash H"4d0f541c12104872b7a69bae646d792e90cb05e1"</string>
+			<string>identifier "libvmaf.3" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "533UMV53L8"</string>
 		</dict>
 		<key>Frameworks/libvorbis.0.dylib</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			poEf/q1+KM2YEwQDoHQV/zIbAiE=
+			QWINvn7eujfXjWXMyNZwRj4Vr7k=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"a6811ffead7e28cd98130403a07415ff321b0221" or cdhash H"643f25612ea5bf383ee99509458ab6f1e51e5787"</string>
+			<string>identifier "libvorbis.0" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "533UMV53L8"</string>
 		</dict>
 		<key>Frameworks/libvorbisenc.2.dylib</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			RlUwKXH29lo9438LOSzOw7Ldrgc=
+			6jDqSrpDp01oMuK/jBmzriqb7H8=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"4655302971f6f65a3de37f0b392ccec3b2ddae07" or cdhash H"b54658f52e96de93bdcca9539c70a45876d4e2b3"</string>
+			<string>identifier "libvorbisenc.2" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "533UMV53L8"</string>
 		</dict>
 		<key>Frameworks/libvpx.12.dylib</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			oV9xF8PHDhKGr80iqbKq03sX/pg=
+			/UDbey12bmRfhPI2qK/0cRlKrz0=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"a15f7117c3c70e1286afcd22a9b2aad37b17fe98" or cdhash H"019b6b623fab7655cc42960d78f2504a84a0809f"</string>
+			<string>identifier "libvpx.12" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "533UMV53L8"</string>
 		</dict>
 		<key>Frameworks/libwebp.7.dylib</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			QBdLWhV0a9sbrUDEbphsHv9heDQ=
+			5U1SPoSfd2b/6ovK+wF2JWMi1M4=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"40174b5a15746bdb1bad40c46e986c1eff617834" or cdhash H"a5352b156e778ac993adea9e4f424086da338d40"</string>
+			<string>identifier "libwebp.7" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "533UMV53L8"</string>
 		</dict>
 		<key>Frameworks/libwebpmux.3.dylib</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			UL3dctwszK1H65fCktjx8+Wk3FU=
+			z4cUZMVQXkrUHeJI/xHWMpwc5rk=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"50bddd72dc2cccad47eb97c292d8f1f3e5a4dc55" or cdhash H"a4582fb82ae239018aab044a72077898bc1ae345"</string>
+			<string>identifier "libwebpmux.3" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "533UMV53L8"</string>
 		</dict>
 		<key>Frameworks/libx264.165.dylib</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			eFrJfJi38idim2Xh/ZDXnx77IB0=
+			T86hBaDMtBisbNsjRS4DbUdgdM8=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"785ac97c98b7f227629b65e1fd90d79f1efb201d" or cdhash H"8ac41a7bc8381e92c04d442f52321119db40e1ca"</string>
+			<string>identifier libx264 and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "533UMV53L8"</string>
 		</dict>
 		<key>Frameworks/libx265.dylib</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			uHLDtuWDcke0LoFrrEf+KjvNC0E=
+			BwTAiP0dNcqhkdBKexs1xot+jio=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"b872c3b6e5837247b42e816bac47fe2a3bcd0b41" or cdhash H"df3d869e58e216b21ebbd3a6dc20402636e5c525"</string>
+			<string>identifier libx265 and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "533UMV53L8"</string>
 		</dict>
 		<key>Frameworks/libxcb.1.dylib</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			rP7CD+IV6SEmqClEIpyZko4cDKc=
+			ruA+ob5AFxMU5tGoYJdtoum0hZ0=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"acfec20fe215e92126a82944229c99928e1c0ca7" or cdhash H"4a739458cde6d9107a8a46df3d5419e9be6491d0"</string>
+			<string>identifier "libxcb.1" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "533UMV53L8"</string>
 		</dict>
 		<key>Frameworks/libxvidcore.4.dylib</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			BNjoONKgneZmigbr7wHKUxAcvVY=
+			hlrSDcooORdHmugcm4HfMqnPcBA=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"04d8e838d2a09de6668a06ebef01ca53101cbd56" or cdhash H"cf5b03d9452ae03326be84bb1d7fa90903dc4991"</string>
+			<string>identifier "libxvidcore.4" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "533UMV53L8"</string>
 		</dict>
 		<key>Frameworks/libzmq.5.dylib</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			0uh/TA2vdm5t23Dr3n90vQmE++4=
+			da0QYaPEncRYd17pxzL4ZmVWTMo=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"d2e87f4c0daf766e6ddb70ebde7f74bd0984fbee" or cdhash H"8cae4bc9c24fe2840b8d0bdfc9aa0ae7e959c6f1"</string>
+			<string>identifier "libzmq.5" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "533UMV53L8"</string>
 		</dict>
 		<key>MacOS/dosbox-x-bin</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			Mzhr4kkUOnhzSbMWOXUC2nICsEA=
+			v+/Ino70aRGQxFLEXUviGlqijSc=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"33386be249143a787349b316397502da7202b040" or cdhash H"81d7ef5dd449f4b37167b9927aea80d2531f512c"</string>
+			<string>identifier "dosbox-x-bin" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "533UMV53L8"</string>
 		</dict>
 		<key>Resources/AppIcon.icns</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			Grjch+NV2k4SVAdkhp5rfJ/Fdjg=
+			</data>
 			<key>hash2</key>
 			<data>
 			k0whIayLTWNRf4bx92ZJVi2JQuclz6bl1h754pJHFwE=
@@ -1119,6 +1123,10 @@
 		</dict>
 		<key>Resources/Assets.car</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			nPr+94+96WUU5vnGepnb70TVYgM=
+			</data>
 			<key>hash2</key>
 			<data>
 			2hU5G4q3D6NF2FjF2uWFp/g6Hl7VRa8ezgNxYiCYKN8=
@@ -1126,6 +1134,10 @@
 		</dict>
 		<key>Resources/BonjourEvents.app/Contents/CodeResources</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			uOzt0VFgWvPsclqgP6jSexIIRAQ=
+			</data>
 			<key>hash2</key>
 			<data>
 			X9EzThKNqeuWLIfecLZ0xHRG5T6jIMF6w9eoMCpgTXk=
@@ -1133,6 +1145,10 @@
 		</dict>
 		<key>Resources/BonjourEvents.app/Contents/Info.plist</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			pd624QjIDR+yyY2ePUWbX6t39d0=
+			</data>
 			<key>hash2</key>
 			<data>
 			Ie/BSposrV9P0vtD0VgGq3tN9V3iYZmwcA9X0wsNYRE=
@@ -1140,13 +1156,21 @@
 		</dict>
 		<key>Resources/BonjourEvents.app/Contents/MacOS/BonjourEvents</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			VmZG7n+JQ6ivdA427BohiNd6hsM=
+			</data>
 			<key>hash2</key>
 			<data>
-			2Wuz9sfw4uORtPyhHrE1PGwlU+XmiE9jmlmO0wMHl9U=
+			lxdyuV5UBQmm8Zr3NsMmHUjXgYj3PYbaqPmYCTtR+dg=
 			</data>
 		</dict>
 		<key>Resources/BonjourEvents.app/Contents/PkgInfo</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			n57qDP4tZfLD1rCS43W0B4LQjzE=
+			</data>
 			<key>hash2</key>
 			<data>
 			glAhkclISwTWhTdPmHmgBmBpxJuKyuegSwHTjQfo7KA=
@@ -1154,6 +1178,10 @@
 		</dict>
 		<key>Resources/BonjourEvents.app/Contents/Resources/Base.lproj/MainMenu.nib</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			+P5IKv+ufXkJZN6GxBCrfqZThwE=
+			</data>
 			<key>hash2</key>
 			<data>
 			1BoKt7ykvsCkx4Coi+BiIRXeLcTXt5f6Bz5kN3+tVDQ=
@@ -1163,6 +1191,10 @@
 		</dict>
 		<key>Resources/BonjourEvents.app/Contents/Resources/BonjourEvents.sdef</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			IB2UMRkFhydyxZCM7NQuSOakE5M=
+			</data>
 			<key>hash2</key>
 			<data>
 			7Tc+m7ewoEPLW34MYmnOuoW9kwGqgi9V+F+7to7hDCI=
@@ -1170,6 +1202,10 @@
 		</dict>
 		<key>Resources/BonjourEvents.app/Contents/Resources/Localizable.strings</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			TPJ6eL4pAxP5DRjT5IQ1Re1zpPw=
+			</data>
 			<key>hash2</key>
 			<data>
 			3P98kPTsbvh9M1OrRq95Pkfocs/FuZomnV915Y6rTTM=
@@ -1177,13 +1213,21 @@
 		</dict>
 		<key>Resources/BonjourEvents.app/Contents/_CodeSignature/CodeResources</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			h7GLC3LhV+lLtE1iIh8a3MIpbpk=
+			</data>
 			<key>hash2</key>
 			<data>
-			8+NNdYcx93hj/653anqOXoqpdxI6Wv0GkPw5uPDjxhU=
+			HOENJT9mf1F0IyrruSZfwJAxcmLf8qPveEeqZw7wNa8=
 			</data>
 		</dict>
 		<key>Resources/Credits.rtf</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			l/pPdq103rne9CZmxaxPJBPnpDI=
+			</data>
 			<key>hash2</key>
 			<data>
 			SECyq8CEPb7umqlQxx0qirYLUIwg03GPtli/usg8ikM=
@@ -1191,6 +1235,10 @@
 		</dict>
 		<key>Resources/Nouveau_IBM.ttf</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			X5HkKu1svH23GXGBo3i05OKkG28=
+			</data>
 			<key>hash2</key>
 			<data>
 			u9jMq9+G2aiS1jkux2bb/6Q490EuwBXVU+qmzXzHdH4=
@@ -1198,6 +1246,10 @@
 		</dict>
 		<key>Resources/SarasaGothicFixed.ttf</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			KhXfpoLfH/hB4gkjSKpqJGDkCBA=
+			</data>
 			<key>hash2</key>
 			<data>
 			iQmR1gw67qQwWNDCnccvzEKNJnDjjB2U1dG/rgNDeo8=
@@ -1205,6 +1257,10 @@
 		</dict>
 		<key>Resources/clippcl.sh</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			Br28ylLOh+vU12Y19zgxrAH8TBU=
+			</data>
 			<key>hash2</key>
 			<data>
 			Sp3WjK/lr9n7tmV85/E8EcFHPfCwGYj2DG42PN74lM8=
@@ -1212,6 +1268,10 @@
 		</dict>
 		<key>Resources/clipps.sh</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			36A3Yyr3BS3ALqj381QIu0Ckgqw=
+			</data>
 			<key>hash2</key>
 			<data>
 			HA5RzWRwd4DEquMlGWfbmONXB4rC7GAR19lwKwuHC00=
@@ -1219,6 +1279,10 @@
 		</dict>
 		<key>Resources/cliptext.sh</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			69pu8/hC4W7aLgQNmWCC0tKbSfY=
+			</data>
 			<key>hash2</key>
 			<data>
 			ZnjhI/x7YTomNbh2IivJ9x128Pjm34C/DwuOpY+WiK4=
@@ -1226,6 +1290,10 @@
 		</dict>
 		<key>Resources/confbak.bat</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			0D+I792ZPtk19HjlxOsZO2fgfT0=
+			</data>
 			<key>hash2</key>
 			<data>
 			5vDJgfxXPDT9kR1BjSyuhVDNnSSMSMinMXnQ6V6hBZ0=
@@ -1233,6 +1301,10 @@
 		</dict>
 		<key>Resources/defaultprint.sh</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			MifS5EzvNRwJxX6A4dJKpA0KrGs=
+			</data>
 			<key>hash2</key>
 			<data>
 			akJ/x+7j45Bkf3JRkUsBFZhGmV/MvzK8Nj0um2ywSHY=
@@ -1240,6 +1312,10 @@
 		</dict>
 		<key>Resources/dosbox-x.conf</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			bDPTvtztBFXe1ruhqUMVa4J7TnU=
+			</data>
 			<key>hash2</key>
 			<data>
 			ZkUM0cooSvID/eGgyFkP845dGHelPyR/ah40P0qh11A=
@@ -1247,6 +1323,10 @@
 		</dict>
 		<key>Resources/dosbox-x.reference.conf</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			aa0pbvg5ifW/AMXUPZgNCml8RwY=
+			</data>
 			<key>hash2</key>
 			<data>
 			E300oAQV4boYRHG+tokOQCNQw410bOX6CdgNhkACNLE=
@@ -1254,6 +1334,10 @@
 		</dict>
 		<key>Resources/dosbox-x.reference.full.conf</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			NKISUiWzqwrKKfAIkZbWSl29y6w=
+			</data>
 			<key>hash2</key>
 			<data>
 			MXLX0FdTC3+TLypVHOchsrih1TrjnEOs20cHxMw+Cp4=
@@ -1261,6 +1345,10 @@
 		</dict>
 		<key>Resources/drivez/readme.txt</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			x7tsRx9jlh7BpAjmnIXRFsXI7Xo=
+			</data>
 			<key>hash2</key>
 			<data>
 			pGjBFj7hu5akFiwLF5Cxh/qmqEfEsciVgjv0vlqxO4Y=
@@ -1268,6 +1356,10 @@
 		</dict>
 		<key>Resources/freecg98.bmp</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			4At3yr1ZYGRqvF285VaPEh03rkg=
+			</data>
 			<key>hash2</key>
 			<data>
 			kddTFKxPlAqxOzwz+yYO8XE4ZdAlqU8J9oFKcuR9+oc=
@@ -1275,6 +1367,10 @@
 		</dict>
 		<key>Resources/glshaders/ScanLine.glsl</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			E0JqRdhmfJlMriGrwR/0L4OgV28=
+			</data>
 			<key>hash2</key>
 			<data>
 			TmD7HrlO69R8o+SBnvpFFjFHHwNLWNMZJfP6dEQbx8w=
@@ -1282,6 +1378,10 @@
 		</dict>
 		<key>Resources/glshaders/advinterp2x.glsl</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+			</data>
 			<key>hash2</key>
 			<data>
 			47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=
@@ -1289,6 +1389,10 @@
 		</dict>
 		<key>Resources/glshaders/advinterp3x.glsl</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+			</data>
 			<key>hash2</key>
 			<data>
 			47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=
@@ -1296,6 +1400,10 @@
 		</dict>
 		<key>Resources/glshaders/advmame2x.glsl</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+			</data>
 			<key>hash2</key>
 			<data>
 			47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=
@@ -1303,6 +1411,10 @@
 		</dict>
 		<key>Resources/glshaders/advmame3x.glsl</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+			</data>
 			<key>hash2</key>
 			<data>
 			47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=
@@ -1310,6 +1422,10 @@
 		</dict>
 		<key>Resources/glshaders/crt-aperture.glsl</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			YYF8yhxOYBMbXlERdUxeLgsXRs4=
+			</data>
 			<key>hash2</key>
 			<data>
 			eSoWdBDwN20fw2urdQetRSdxWGq0BQ6ZZQOKFWhG6Kk=
@@ -1317,6 +1433,10 @@
 		</dict>
 		<key>Resources/glshaders/crt-caligari.glsl</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			PUno3iyBCf4+P+h3g/UoAdtB8yo=
+			</data>
 			<key>hash2</key>
 			<data>
 			LpmZ0m4DJF1xZzzY73XPJ0rSHV8CmZqzf3M83Lytw/s=
@@ -1324,6 +1444,10 @@
 		</dict>
 		<key>Resources/glshaders/crt-easymode.glsl</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			8CAk2B7JVaHyYC/+DrytkyNUFXU=
+			</data>
 			<key>hash2</key>
 			<data>
 			z8v6SDHRblEK33fJ/UJilm/UOwr/eSwqzroVC9m1uNU=
@@ -1331,6 +1455,10 @@
 		</dict>
 		<key>Resources/glshaders/crt-easymode.tweaked.glsl</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			+JVhJfFyVMbwzEpDpX4bjw49x0Y=
+			</data>
 			<key>hash2</key>
 			<data>
 			F6KN8rFYu80hzDTdxdE42Nxj2nRYIDmE7yetl1OcDqs=
@@ -1338,6 +1466,10 @@
 		</dict>
 		<key>Resources/glshaders/crt-geom.glsl</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			HSYNhAXxSkJt1QWcqIWM3j4jeEU=
+			</data>
 			<key>hash2</key>
 			<data>
 			UaQbEIlKcbkM2IZTjlqqbwuD+V8odAPW6NKjm2ORUAk=
@@ -1345,6 +1477,10 @@
 		</dict>
 		<key>Resources/glshaders/crt-geom.tweaked.glsl</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			WLWOcriSDYYKH7TbfzCoJuDi7lo=
+			</data>
 			<key>hash2</key>
 			<data>
 			xnZsS8rmv2dQbIs1frGKIG28CEJCFc/bJi6apNIz9I0=
@@ -1352,6 +1488,10 @@
 		</dict>
 		<key>Resources/glshaders/crt-hyllian.glsl</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			8HBq+NIrWcwCaCkdqSs+G4738eQ=
+			</data>
 			<key>hash2</key>
 			<data>
 			iVrFelV/iG2Ol+xTduxHY7kZXMt87dXqWUWVjjkV7Xs=
@@ -1359,6 +1499,10 @@
 		</dict>
 		<key>Resources/glshaders/crt-lottes-fast.glsl</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			5kYx8pCDfO7jr1sqjoCkPD9HuOo=
+			</data>
 			<key>hash2</key>
 			<data>
 			NWjOGTslF5CQEeHxuCZo5bs1BPzGG1xTH/xXIxiM7vU=
@@ -1366,6 +1510,10 @@
 		</dict>
 		<key>Resources/glshaders/crt-lottes-fast.subtle+gain.glsl</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			D/0gd/ByDfvHTSgp52l75XBHURU=
+			</data>
 			<key>hash2</key>
 			<data>
 			4Pp8hkSuMq4gkNmaJYysQDFk4sEUPZ5txvXgJOWsiVQ=
@@ -1373,6 +1521,10 @@
 		</dict>
 		<key>Resources/glshaders/crt-lottes.glsl</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			iTIVwpMzt58GPX1ZK/fEKBB7paA=
+			</data>
 			<key>hash2</key>
 			<data>
 			OQavPiQougJmCf40wGQ7AXdgOpRqaGpGVZPyPhwP4zM=
@@ -1380,6 +1532,10 @@
 		</dict>
 		<key>Resources/glshaders/crt-lottes.tweaked.glsl</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			kI1xMX/Dkh+MtiNNWm4i2QaOyO4=
+			</data>
 			<key>hash2</key>
 			<data>
 			5b7Cc4yvgPzn1icgbThaGw3hugjx+6RA3T1oK/pcyig=
@@ -1387,6 +1543,10 @@
 		</dict>
 		<key>Resources/glshaders/crt-nes-mini.glsl</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			HlSleJcF/zGG5PAIfUazVz6+sIo=
+			</data>
 			<key>hash2</key>
 			<data>
 			MwucK6dzFg8554En5UhDUatD1u6O9YHWUsnczlozKuY=
@@ -1394,6 +1554,10 @@
 		</dict>
 		<key>Resources/glshaders/crt-pi.glsl</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			CxiwfbUC0D5TH1IJKY9hW/HzcOU=
+			</data>
 			<key>hash2</key>
 			<data>
 			JUBD4nm2Nv1L4UlCU456yuyDJvPPmSuGgNBosihiVCo=
@@ -1401,6 +1565,10 @@
 		</dict>
 		<key>Resources/glshaders/default.glsl</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+			</data>
 			<key>hash2</key>
 			<data>
 			47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=
@@ -1408,6 +1576,10 @@
 		</dict>
 		<key>Resources/glshaders/fakelottes.glsl</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			E9ZK6QHaFxZ3o4cSeHR7l7JFAgI=
+			</data>
 			<key>hash2</key>
 			<data>
 			ZBT0ixxIo5PXXsFJv/xIaDVpsny/R2Uuxz+3hbVo6bs=
@@ -1415,6 +1587,10 @@
 		</dict>
 		<key>Resources/glshaders/fakelottes.tweaked.glsl</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			sIQ52u5RvNuNVr/fl1ix0dXkiyo=
+			</data>
 			<key>hash2</key>
 			<data>
 			DKGIjexthJ3Qy3aNVIhTRyv1aooWNraKRW/XnThQ6Mo=
@@ -1422,6 +1598,10 @@
 		</dict>
 		<key>Resources/glshaders/glshaders.txt</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			DYpnteeoGizZIckmWxja7xul2qU=
+			</data>
 			<key>hash2</key>
 			<data>
 			culhHCjIZ5afySIGorfeVX/yBRQ5UUTBuHOwiJEe3BM=
@@ -1429,6 +1609,10 @@
 		</dict>
 		<key>Resources/glshaders/none.glsl</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+			</data>
 			<key>hash2</key>
 			<data>
 			47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=
@@ -1436,6 +1620,10 @@
 		</dict>
 		<key>Resources/glshaders/pixel_perfect-scanlines.glsl</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			XSNju8Yq8eP09d990oeEr0/5mCE=
+			</data>
 			<key>hash2</key>
 			<data>
 			WPl2zVl7AY+I05yO18ACFTeFeJ8W4jY/wQgQUBXsTmg=
@@ -1443,6 +1631,10 @@
 		</dict>
 		<key>Resources/glshaders/pixel_perfect.glsl</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			Usxi8BdvDMgvuTIl3+gyTbeDzFk=
+			</data>
 			<key>hash2</key>
 			<data>
 			2nRswcxGGt2AQV4uD8SiqrL4ZxC1YWqRJTo0ulC39Rs=
@@ -1450,6 +1642,10 @@
 		</dict>
 		<key>Resources/glshaders/pixellate.glsl</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			TYc+6LqsIHr5MNuYrRrbTQ/pTiI=
+			</data>
 			<key>hash2</key>
 			<data>
 			zfl22EjEDWXmjxZEP4XCVjtb4Exfj4nOecY/k3xkUxY=
@@ -1457,6 +1653,10 @@
 		</dict>
 		<key>Resources/glshaders/rgb2x.glsl</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+			</data>
 			<key>hash2</key>
 			<data>
 			47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=
@@ -1464,6 +1664,10 @@
 		</dict>
 		<key>Resources/glshaders/rgb3x.glsl</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+			</data>
 			<key>hash2</key>
 			<data>
 			47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=
@@ -1471,6 +1675,10 @@
 		</dict>
 		<key>Resources/glshaders/scan2x.glsl</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+			</data>
 			<key>hash2</key>
 			<data>
 			47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=
@@ -1478,6 +1686,10 @@
 		</dict>
 		<key>Resources/glshaders/scan3x.glsl</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+			</data>
 			<key>hash2</key>
 			<data>
 			47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=
@@ -1485,6 +1697,10 @@
 		</dict>
 		<key>Resources/glshaders/sharp.glsl</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+			</data>
 			<key>hash2</key>
 			<data>
 			47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=
@@ -1492,6 +1708,10 @@
 		</dict>
 		<key>Resources/glshaders/tv2x.glsl</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+			</data>
 			<key>hash2</key>
 			<data>
 			47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=
@@ -1499,6 +1719,10 @@
 		</dict>
 		<key>Resources/glshaders/tv3x.glsl</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+			</data>
 			<key>hash2</key>
 			<data>
 			47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=
@@ -1506,6 +1730,10 @@
 		</dict>
 		<key>Resources/glshaders/xbr-lv2-3d.glsl</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			kuxqTw/SsRc4GU6+9WfhR/+cw7U=
+			</data>
 			<key>hash2</key>
 			<data>
 			jv0vpZGjdYT8n3LeCN1o158W5CaKM+EbKY+f1v5tLII=
@@ -1513,6 +1741,10 @@
 		</dict>
 		<key>Resources/glshaders/xbr-lv2-noblend.glsl</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			UxjuAQOJlQ9RaLuWkzMEBt8PXAA=
+			</data>
 			<key>hash2</key>
 			<data>
 			HDZYqM1XouVHbVpT1dqjA44sR8tvGUZkNXiOD2F+dFI=
@@ -1520,6 +1752,10 @@
 		</dict>
 		<key>Resources/glshaders/xbr-lv2.glsl</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			TETbfE1SWswPZw5ZTX8xZwjVhRY=
+			</data>
 			<key>hash2</key>
 			<data>
 			EHwZbL5EuMaUPBjvV70s/0cnMZTSbdpAuhGv0YjQhWw=
@@ -1527,6 +1763,10 @@
 		</dict>
 		<key>Resources/glshaders/xbr-lv3.glsl</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			d/1len0vszRgncb5YOmA55tgkX0=
+			</data>
 			<key>hash2</key>
 			<data>
 			Yz3MIkr+cwukvvkEz+EWBqkeJ1SatUr1RMWdoUv/6Ns=
@@ -1534,6 +1774,10 @@
 		</dict>
 		<key>Resources/glshaders/yee64.glsl</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			WMgdH5GIRV5KH6kr/c2/aOqYlgQ=
+			</data>
 			<key>hash2</key>
 			<data>
 			pnc8SNp1jHzMsDTllabmrs674qW1TqWJ2vXksT+EAV4=
@@ -1541,6 +1785,10 @@
 		</dict>
 		<key>Resources/glshaders/yeetron.glsl</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			qch+JoomMdCfpU7IZ7Ufy2VbViI=
+			</data>
 			<key>hash2</key>
 			<data>
 			wyq0l/EplFeOXwCCXEpPp1xskKZeEB+PG69GHoUeWRU=
@@ -1548,6 +1796,10 @@
 		</dict>
 		<key>Resources/glshaders/zfast_crt.glsl</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			P/YeLEAQ8xQZ9a5V1W3kKCDhiHU=
+			</data>
 			<key>hash2</key>
 			<data>
 			UWRGl04HvqD3vNXhA/wtMxrsaDx/hVQxXDO+OjosmMU=
@@ -1555,20 +1807,32 @@
 		</dict>
 		<key>Resources/gpcl6</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			qM+TcjiujlZ9Ls6MnUEIYVvaW70=
+			</data>
 			<key>hash2</key>
 			<data>
-			3I81M8M7CVhVey1mAmthLLBuUzLmLEVJOkC/6QJOBMk=
+			V9ZDFP5iv3Cp2TIG96Azk1w3jo38eFV0e0jvZF0e464=
 			</data>
 		</dict>
 		<key>Resources/gs</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			PeorBwe2GnqWlVicyPQfYIZDLhg=
+			</data>
 			<key>hash2</key>
 			<data>
-			cHM0oDjIh7PX9blApJIMkPpEc7+835XzY5Kh1CvQrDg=
+			i1Nd4fC5onL1WzmT8WZ+aUdw4cwhSN3u++qK/6tQkMg=
 			</data>
 		</dict>
 		<key>Resources/languages/de_DE.lng</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			i9O3+vFqgN6FHOTS1/MxBuXEHB8=
+			</data>
 			<key>hash2</key>
 			<data>
 			/d/T85cUb4jycDEdGOyxeUju/RoQPH/T9AC2tcEZ3U4=
@@ -1576,6 +1840,10 @@
 		</dict>
 		<key>Resources/languages/de_pc98.lng</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			iIWc+GTk1PXS51MdSpEToVswO+Y=
+			</data>
 			<key>hash2</key>
 			<data>
 			Pz2MuWTc5QR16xKPLV2JZ2DxpZBNrdW7VMa/8uxVEgM=
@@ -1583,6 +1851,10 @@
 		</dict>
 		<key>Resources/languages/en_US.lng</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			QCx7QKaZryLCPJmgFb8bmDZ9PHA=
+			</data>
 			<key>hash2</key>
 			<data>
 			MS4hP5PxuTxGnESbtuSvx+HSC6rG8e6/I9ALu6RKpJs=
@@ -1590,6 +1862,10 @@
 		</dict>
 		<key>Resources/languages/es_ES.lng</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			Lj33llwgifwEycyW9YdjU47Afs0=
+			</data>
 			<key>hash2</key>
 			<data>
 			BLpcuC41PSarpG9SGT/faGIiGRSddLtU35NSQZoB9Ys=
@@ -1597,6 +1873,10 @@
 		</dict>
 		<key>Resources/languages/fr_FR.lng</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			2IUHuYL7NYO+JtAl59BcySBNX3k=
+			</data>
 			<key>hash2</key>
 			<data>
 			8JzV3HXBFjLJD5dT2ZIEw+5d6vZzdvlsbTKurv1cUWc=
@@ -1604,6 +1884,10 @@
 		</dict>
 		<key>Resources/languages/hu_HU.lng</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			nJG9VaeH3PkyC7h21Xf1xFAJq4I=
+			</data>
 			<key>hash2</key>
 			<data>
 			X+cNegHCKk+PgGk5Zke25hVdQ2I//1j6bo4ZmRQnH0E=
@@ -1611,6 +1895,10 @@
 		</dict>
 		<key>Resources/languages/it_IT.lng</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			I4q0zRrTeXNXclpqiue7se2iVcM=
+			</data>
 			<key>hash2</key>
 			<data>
 			Jfz4pX3epWZG5BDpfwGUfFQIXJnxaMbXKoBbdm15lGs=
@@ -1618,6 +1906,10 @@
 		</dict>
 		<key>Resources/languages/ja_JP.lng</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			bT2AW48naMAgrcULu5Oe//4YMIE=
+			</data>
 			<key>hash2</key>
 			<data>
 			BDa1v/n0+G31NTo9PBDitG3TgFKiPVOGaQBks1TQQHE=
@@ -1625,6 +1917,10 @@
 		</dict>
 		<key>Resources/languages/ko_KR.lng</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			BriXJNdzeeFcjNFxtYJC0TE+u4s=
+			</data>
 			<key>hash2</key>
 			<data>
 			0zkCLyM4e+w688waQFhwrg2Z+FcMGLmp1xG16+mDo6s=
@@ -1632,6 +1928,10 @@
 		</dict>
 		<key>Resources/languages/nl_NL.lng</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			XRpiOevkb/dZXV6P2OTkj/p0HAY=
+			</data>
 			<key>hash2</key>
 			<data>
 			UdlUCNyxtJl3S1RR3aJf7jwD8/62KsGDHUCBuvKJLzU=
@@ -1639,6 +1939,10 @@
 		</dict>
 		<key>Resources/languages/pt_BR.lng</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			j0vmraJWbTSigAv64LlJtCTk/sM=
+			</data>
 			<key>hash2</key>
 			<data>
 			sM+Koam393jKwdZK9kymcB8urD2qQjA3yWaDvYIz0TE=
@@ -1646,6 +1950,10 @@
 		</dict>
 		<key>Resources/languages/ru_RU.lng</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			ezEEOf4aeO1j+HFpswWNdMGRMqg=
+			</data>
 			<key>hash2</key>
 			<data>
 			mt/x1kfO/2lv/N4faZFAxu+YBufb8sQw15nKu8oHOZM=
@@ -1653,6 +1961,10 @@
 		</dict>
 		<key>Resources/languages/tr_TR.lng</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			XE+AsLaZDquhJKfJBkv/1lN7OKU=
+			</data>
 			<key>hash2</key>
 			<data>
 			dzpMBskcUlgeRFn3Kd6BMMGY2YzksJqnIwe5g+UiK4I=
@@ -1660,6 +1972,10 @@
 		</dict>
 		<key>Resources/languages/zh_CN.lng</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			VzBv7XjC4j0A16bVM3x9uElnjTE=
+			</data>
 			<key>hash2</key>
 			<data>
 			VZtsi9Ho9Ej96lVv2HOKxlfqxgNd/wvufYybqUgsmvs=
@@ -1667,6 +1983,10 @@
 		</dict>
 		<key>Resources/languages/zh_TW.lng</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			5ZtyjkOQs6lnU6z3B4bCUN1WZoE=
+			</data>
 			<key>hash2</key>
 			<data>
 			aW/f2PjkbSCV4ZyT1kyMBl07TJftPZ+q4loRSXKIJXE=
@@ -1674,6 +1994,10 @@
 		</dict>
 		<key>Resources/makebak.bat</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			UvljeakigRCnpqsXSEVMMksl5ks=
+			</data>
 			<key>hash2</key>
 			<data>
 			3srUmrHK8/VMHOTzZ0m6K3TPcWyyM4e5T2t2zSAxEk4=
@@ -1681,13 +2005,21 @@
 		</dict>
 		<key>Resources/nenscript</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			PNat5uyomXy5oZyxBbZoYh0zDYM=
+			</data>
 			<key>hash2</key>
 			<data>
-			R2/0UZk/J3i/XGoYVX//zMDrEjO+7IDTkeD263jUmPI=
+			XTmjPwpFcI/DfJMnQ1psgrxx9/+YyYdH1KfTnGPGBu8=
 			</data>
 		</dict>
 		<key>Resources/pclpdf.sh</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			0K9kV6sI/Kou4+Z6tt/nXUGwLEc=
+			</data>
 			<key>hash2</key>
 			<data>
 			0cKxTlAtVGF1j8iqujvxs79iTvleRQzNPVKoXCe7yW8=
@@ -1695,6 +2027,10 @@
 		</dict>
 		<key>Resources/pclprint.sh</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			YwF3SOL6dmkfeux435RqW97nxgo=
+			</data>
 			<key>hash2</key>
 			<data>
 			1tOxDebO3/mAQ/GBq13z+YwNgnrYN/y9hFX3JtA13GM=
@@ -1702,6 +2038,10 @@
 		</dict>
 		<key>Resources/pclselect.sh</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			nXPuMy7ZKpV7hn/rEU+1Ssk4Ygg=
+			</data>
 			<key>hash2</key>
 			<data>
 			g6iUY1MkYg4CxBcpQSTIB5yTLpnhaI5NzcQS9Abt7VI=
@@ -1709,6 +2049,10 @@
 		</dict>
 		<key>Resources/pclview.sh</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			MB2s4EYk7G4MmNWaI2jA8sh7Lgc=
+			</data>
 			<key>hash2</key>
 			<data>
 			z7I19k6QG1S6354QKX9VPE3Lu08DHIFepUBYbZx4n/U=
@@ -1716,6 +2060,10 @@
 		</dict>
 		<key>Resources/pspdf.sh</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			wDFfLrkYK6a4rAJ6BKy6kNHmFgw=
+			</data>
 			<key>hash2</key>
 			<data>
 			TS4k9k5NkiP1hzR0QZVHFi8bipattdGA18F51HXqd/w=
@@ -1723,6 +2071,10 @@
 		</dict>
 		<key>Resources/psprint.sh</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			xxjYFY7qrYI2tSCGbHBPKCBPr0s=
+			</data>
 			<key>hash2</key>
 			<data>
 			3na2UTPm8+9CQnr6OMhI+BgUv9jY1GIKFM7F0/Na2X4=
@@ -1730,6 +2082,10 @@
 		</dict>
 		<key>Resources/psselect.sh</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			kkZ5/iECaqPK5Jm3Z6DPpLXuukw=
+			</data>
 			<key>hash2</key>
 			<data>
 			rg8S6gvYCNRnlzc8dOtpHZ1jYWfjq+koaaK/RlyVC1s=
@@ -1737,6 +2093,10 @@
 		</dict>
 		<key>Resources/psview.sh</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			EDL10xcwq6B/13orKT7+gLrCd/k=
+			</data>
 			<key>hash2</key>
 			<data>
 			niW+QuhEYSZxD79s4m1Bl4En2pMSejDQY+sXWd0SWcc=
@@ -1744,6 +2104,10 @@
 		</dict>
 		<key>Resources/selectprint.sh</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			lg8Z6sF3N+OvmdnwmOCYk/Sd/xw=
+			</data>
 			<key>hash2</key>
 			<data>
 			bSn9evHYo/K8rwy9mCD9cgWfnuG8nSnHr1dXIcevil4=
@@ -1751,6 +2115,10 @@
 		</dict>
 		<key>Resources/selectrawprint.sh</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			zWy1iFGn8miO8uTW++EhznnYJl8=
+			</data>
 			<key>hash2</key>
 			<data>
 			XRwZqCEMG+Z5B1sWY3Sguw8nDUl3eekkNXAHFpr5iU4=
@@ -1758,6 +2126,10 @@
 		</dict>
 		<key>Resources/selraw.sh</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			cYq5JZxPc17pcitWS1/lKBWnhnU=
+			</data>
 			<key>hash2</key>
 			<data>
 			Lr+oaagaIBJNvad6FaZDlkImlzsCFWlwsuRnZaJ6/2g=
@@ -1765,6 +2137,10 @@
 		</dict>
 		<key>Resources/textpdf.sh</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			9hQ+7aPy+kRvyhiMDHYcHqa6HCs=
+			</data>
 			<key>hash2</key>
 			<data>
 			LsPk0+QXDFoDWjTbj09y+cf0NJy+BxW0eaRlMhPO478=
@@ -1772,6 +2148,10 @@
 		</dict>
 		<key>Resources/textprint.sh</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			MJvacMygUUkc61Ej2bupeYH4ZZI=
+			</data>
 			<key>hash2</key>
 			<data>
 			RAXZHeJysfzzU1Zfoy7fM+tLmVTzxsx9Q5Uhq0jsOYw=
@@ -1779,6 +2159,10 @@
 		</dict>
 		<key>Resources/textselect.sh</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			CnygER54rkQIWsoFTHqxc3FTfvA=
+			</data>
 			<key>hash2</key>
 			<data>
 			BsRJ8CSoV+am8e8VK8q8kk9Ub9gqu+IPW8GVQP69uqA=
@@ -1786,6 +2170,10 @@
 		</dict>
 		<key>Resources/textview.sh</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			D0gruvDx/HlkVBPp/8wPCJz322E=
+			</data>
 			<key>hash2</key>
 			<data>
 			IjKTtnF+JyT5g1wvZ3U6BNE2uNehKgmlMDZ5DtyeDS0=
@@ -1793,6 +2181,10 @@
 		</dict>
 		<key>Resources/wqy_11pt.bdf</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			cjsMYUKDIbCspMQ/zZFAaAfU+BU=
+			</data>
 			<key>hash2</key>
 			<data>
 			r2R2a/PfMzbHawTy0HdJgSNzeQufIO1ZwPr3zIpSQa0=
@@ -1800,6 +2192,10 @@
 		</dict>
 		<key>Resources/wqy_12pt.bdf</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			/vy0nLE+oZHSyHtAbBQalXAgQyw=
+			</data>
 			<key>hash2</key>
 			<data>
 			6tms0DyNdJ3d6Jmv7Um6S1DmyhRYWjCRvCOnB0kCz+A=
